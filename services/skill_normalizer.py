@@ -1,21 +1,15 @@
+import csv
 import re
+from pathlib import Path
 
 
-SKILL_ALIASES = {
-    "ml": "machine learning",
-    "machine-learning": "machine learning",
-    "ai/ml": "artificial intelligence",
-    "aws cloud": "aws",
-    "amazon web services": "aws",
-    "js": "javascript",
-    "react.js": "react",
-    "node.js": "node",
-}
+BASE_DIR = Path(__file__).resolve().parent.parent
+CANONICAL_MAP_PATH = BASE_DIR / "data" / "canonical_skill_map.csv"
 
 
-def normalize_skill(skill):
+def basic_normalize(skill):
     """
-    Convert a raw skill name into a canonical skill name.
+    Perform safe formatting normalization.
     """
 
     if not skill:
@@ -23,19 +17,70 @@ def normalize_skill(skill):
 
     skill = str(skill).strip().lower()
 
-    # Normalize whitespace
+    # Collapse multiple whitespace characters.
     skill = re.sub(r"\s+", " ", skill)
-
-    # Apply known aliases
-    if skill in SKILL_ALIASES:
-        return SKILL_ALIASES[skill]
 
     return skill
 
 
+def load_canonical_map():
+    """
+    Load raw-skill -> canonical-skill mappings from CSV.
+    """
+
+    aliases = {}
+
+    if not CANONICAL_MAP_PATH.exists():
+        return aliases
+
+    with open(
+        CANONICAL_MAP_PATH,
+        "r",
+        encoding="utf-8",
+        newline=""
+    ) as file:
+
+        reader = csv.DictReader(file)
+
+        for row in reader:
+            raw_skill = basic_normalize(row["raw_skill"])
+            canonical_skill = basic_normalize(row["canonical_skill"])
+
+            if raw_skill and canonical_skill:
+                aliases[raw_skill] = canonical_skill
+
+    return aliases
+
+
+SKILL_ALIASES = load_canonical_map()
+
+
+def normalize_skill(skill):
+    """
+    Convert a raw skill into its canonical representation.
+
+    Processing:
+
+        Raw skill
+             ↓
+        Basic normalization
+             ↓
+        Canonical lookup
+             ↓
+        Canonical skill
+    """
+
+    skill = basic_normalize(skill)
+
+    if not skill:
+        return ""
+
+    return SKILL_ALIASES.get(skill, skill)
+
+
 def normalize_skills(skills):
     """
-    Normalize a list of skills and remove duplicates.
+    Normalize a collection of skills and remove duplicates.
     """
 
     normalized = {
