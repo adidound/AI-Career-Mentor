@@ -1,0 +1,611 @@
+canonical_skill,category
+.net,Framework / Library
+.net development tools,Framework / Library
+.net framework,Framework / Library
+2d animation,Animation / Multimedia
+2d/3d animation,Animation / Multimedia
+3d animation,Animation / Multimedia
+3d modeling,Animation / Multimedia
+a/b testing,Testing / QA
+access control,Security
+accessibility testing,Testing / QA
+account management,IT Operations / Administration
+active directory,IT Operations / Administration
+actuators,Hardware / Embedded
+ada compliance,Compliance / Governance
+administrative support,IT Service Management
+adobe creative suite,Design / UX
+agile methodologies,Business / Management
+agile testing,Testing / QA
+ai architecture,Architecture / Design
+ai strategy,Data / AI
+ai/ml algorithms,Data / AI
+ai/ml architecture,Architecture / Design
+alerting,Monitoring / Observability
+alerting systems,Monitoring / Observability
+algorithm design,Software Engineering
+algorithms,Software Engineering
+analysis,Other / Review
+analytics,Data / AI
+android sdk,Mobile Development
+android studio,Mobile Development
+angular,Framework / Library
+angularjs,Framework / Library
+animation,Animation / Multimedia
+animation direction,Animation / Multimedia
+animation software,Animation / Multimedia
+ansible,Cloud / Infrastructure
+ant,Other / Review
+anypoint platform,Enterprise / Business Systems
+apex,Enterprise / Business Systems
+api design,API / Integration
+api development,API / Integration
+appdynamics,Monitoring / Observability
+application design,Architecture / Design
+application development,Software Engineering
+application performance monitoring,Monitoring / Observability
+application security,Security
+aria,Other / Review
+arm templates,Cloud / Infrastructure
+art direction,Animation / Multimedia
+artifact repository,DevOps / CI-CD
+artifactory,DevOps / CI-CD
+asp.net,Framework / Library
+assistive technologies,Design / UX
+atlassian suite,Enterprise / Business Systems
+audio production,Animation / Multimedia
+authentication,Security
+authorization,Security
+automation,DevOps / CI-CD
+automation testing,Testing / QA
+automation tools,DevOps / CI-CD
+aws,Cloud / Infrastructure
+aws lambda,Cloud / Infrastructure
+azure,Cloud / Infrastructure
+backup and recovery,IT Operations / Administration
+bamboo,DevOps / CI-CD
+big data architecture,AI / Advanced Analytics
+bitbucket,DevOps / CI-CD
+blender,Animation / Multimedia
+blockchain,Blockchain / Web3
+blueprints,Other / Review
+bpmn,Enterprise / Business Systems
+branching strategies,DevOps / CI-CD
+budgeting,Finance / Business
+build automation,DevOps / CI-CD
+build tools,Software Engineering
+business acumen,Business / Management
+business analysis,Business / Management
+business intelligence,Business / Management
+business intelligence tools,Business / Management
+business process analysis,Business / Management
+business process improvement,Business / Management
+business systems,Business / Management
+c#,Programming Language
+c++,Programming Language
+c/c++,Programming Language
+cabling,Hardware / Embedded
+cad/cam,Hardware / Embedded
+cartography,GIS / Geospatial
+change management,Business / Management
+character design,Animation / Multimedia
+character setup,Animation / Multimedia
+chef,DevOps / CI-CD
+chef inspec,DevOps / CI-CD
+ci/cd,DevOps / CI-CD
+ci/cd pipelines,DevOps / CI-CD
+cinematography,Animation / Multimedia
+circuit design,Hardware / Embedded
+cisco,Networking
+client management,Business / Management
+cloud architecture,Cloud / Infrastructure
+cloud computing,Cloud / Infrastructure
+cloud networking,Cloud / Infrastructure
+cloud platforms,Cloud / Infrastructure
+cloud security,Security
+cloud services,Cloud / Infrastructure
+cloudformation,Cloud / Infrastructure
+cms,Web Development
+cnc programming,Hardware / Embedded
+cobol,Programming Language
+code coverage,Testing / QA
+code quality,Software Engineering
+code review,Software Engineering
+collaboration,Soft Skill
+color correction,Animation / Multimedia
+communication,Soft Skill
+communication protocols,Networking
+compliance,Compliance / Governance
+compliance as code,Security
+compositing,Animation / Multimedia
+computer vision,Data / AI
+configuration management,IT Operations / Administration
+confluence,Enterprise / Business Systems
+consensus algorithms,Blockchain / Web3
+consul,Cloud / Infrastructure
+container orchestration,DevOps / CI-CD
+container security,Security
+containerization,DevOps / CI-CD
+content creation,Marketing / SEO
+content management,Marketing / SEO
+content marketing,Marketing / SEO
+content optimization,Marketing / SEO
+content strategy,Marketing / SEO
+continuous security,Security
+control systems,Hardware / Embedded
+coordination,Soft Skill
+coverage.py,Testing / QA
+cryptocurrency,Blockchain / Web3
+cryptography,Security
+css,Web Development
+css3,Web Development
+customer engagement,Business / Management
+customer relationship management,Business / Management
+customer service,Business / Management
+customization,Other / Review
+cybersecurity,Security
+dashboards,Data / AI
+dast,Security
+data analysis,Data / AI
+data cleansing,Data / AI
+data collection,Other / Review
+data governance,Data / AI
+data integration,Other / Review
+data lakes,Data / AI
+data management,Other / Review
+data mining,Data / AI
+data modeling,Data / AI
+data pipelines,Data / AI
+data processing,Data / AI
+data profiling,Other / Review
+data quality tools,Other / Review
+data recovery,Other / Review
+data science,Data / AI
+data security,Data / AI
+data structures,Data Engineering
+data visualization,Data / AI
+data warehousing,Data / AI
+data wrangling,Data / AI
+database design,Database / Data Technology
+database development,Database / Data Technology
+database management,Database / Data Technology
+databases,Database / Data Technology
+datadog,Monitoring / Observability
+dax,Database / Data Technology
+debugging,Software Engineering
+deep learning,Data / AI
+dependency management,Software Engineering
+deployment automation,DevOps / CI-CD
+deployment strategies,DevOps / CI-CD
+design patterns,Architecture / Design
+development,Software Engineering
+devops,DevOps / CI-CD
+devops practices,DevOps / CI-CD
+devsecops,DevOps / CI-CD
+digital forensics,Security
+digital strategy,Business / Management
+distributed ledger,Blockchain / Web3
+django,Framework / Library
+docker,Cloud / Infrastructure
+documentation,IT Service Management
+drawing,Animation / Multimedia
+e-commerce platforms,Enterprise / Business Systems
+ec2,Cloud / Infrastructure
+elasticsearch,Data / AI
+embedded c,Hardware / Embedded
+embedded systems,Hardware / Embedded
+encryption,Security
+entity framework,Framework / Library
+envoy,DevOps / CI-CD
+er diagrams,Database / Data Technology
+erp systems,Enterprise / Business Systems
+ethereum,Blockchain / Web3
+ethical hacking,Security
+etl,Data Engineering
+etl processes,Data Engineering
+excel,Data / AI
+execution,Other / Review
+express.js,Framework / Library
+falco,Security
+figma,Design / UX
+film/animation,Animation / Multimedia
+financial analysis,Finance / Business
+firebase,Framework / Library
+firewall management,Security
+firewalls,Security
+firmware development,Hardware / Embedded
+flask,Framework / Library
+fluentd,Monitoring / Observability
+flutter,Framework / Library
+forensic animation,Animation / Multimedia
+fortify,Security
+framework development,Software Engineering
+frameworks,Software Engineering
+g-code,Hardware / Embedded
+game design,Animation / Multimedia
+game development principles,Animation / Multimedia
+game engines,Game Development
+gcp,Cloud / Infrastructure
+gerrit,DevOps / CI-CD
+gis software,GIS / Geospatial
+git,DevOps / CI-CD
+github,DevOps / CI-CD
+github actions,DevOps / CI-CD
+gitlab,DevOps / CI-CD
+gitlab ci,DevOps / CI-CD
+gradle,DevOps / CI-CD
+grafana,Monitoring / Observability
+graphic design,Design / UX
+groovy,Programming Language
+hadoop,Data / AI
+hardware design,Hardware / Embedded
+hardware interfaces,Hardware / Embedded
+hardware management,Hardware / Embedded
+hardware/software,Hardware / Embedded
+hashicorp vault,Security
+hibernate,Framework / Library
+html,Web Development
+html5,Web Development
+iam systems,IT Operations / Administration
+identity and access management,IT Operations / Administration
+ids/ips,Security
+illustration,Animation / Multimedia
+image manipulation,Animation / Multimedia
+implementation,Other / Review
+implementation management,IT Service Management
+incident management,IT Operations / Administration
+incident response,IT Operations / Administration
+information architecture,Design / UX
+information management,IT Operations / Administration
+infrastructure as code,Cloud / Infrastructure
+infrastructure as code (iac),Cloud / Infrastructure
+infrastructure management,Cloud / Infrastructure
+innovation,Business / Management
+integration,API / Integration
+integration management,API / Integration
+intelligence gathering,Research / Analytics
+interaction design,Design / UX
+internet technologies,Other / Review
+intrusion detection,Security
+inventory management,Finance / Business
+investment management,Finance / Business
+ios,Mobile Development
+ios sdk,Mobile Development
+ios/android sdks,Mobile Development
+iot platforms,Robotics / Control Systems
+istio,DevOps / CI-CD
+it analysis,Other / Review
+it auditing,Compliance / Governance
+it consulting,Business / Management
+it infrastructure,Other / Review
+it management,Business / Management
+it program management,Business / Management
+it strategy,Business / Management
+it support,IT Operations / Administration
+itil,IT Service Management
+j2ee,Mainframe / Legacy Systems
+jacoco,Testing / QA
+java,Programming Language
+javascript,Programming Language
+jcl,Mainframe / Legacy Systems
+jenkins,DevOps / CI-CD
+jfrog cli,DevOps / CI-CD
+jira,Enterprise / Business Systems
+jquery,Framework / Library
+junit,Testing / QA
+kafka,Data / AI
+kanban,Business / Management
+keras,Framework / Library
+keyword research,Marketing / SEO
+kibana,Monitoring / Observability
+knowledge management,Other / Review
+kotlin,Programming Language
+kubernetes,Cloud / Infrastructure
+lan/wan,Networking
+laravel,Framework / Library
+layout,Animation / Multimedia
+leadership,Business / Management
+learning agility,Soft Skill
+legal compliance,Compliance / Governance
+legal expertise,Compliance / Governance
+lightning,Enterprise / Business Systems
+link building,Marketing / SEO
+linq,Framework / Library
+linux,Cloud / Infrastructure
+linux administration,IT Operations / Administration
+linux servers,IT Operations / Administration
+linux/windows servers,IT Operations / Administration
+log management,Monitoring / Observability
+logstash,Monitoring / Observability
+machine learning,Data / AI
+machine learning algorithms,Data / AI
+machining,Hardware / Embedded
+mainframe systems,Mainframe / Legacy Systems
+manufacturing processes,Hardware / Embedded
+mapreduce,Data / AI
+market analysis,Finance / Business
+maven,DevOps / CI-CD
+maya,Design / UX
+mentoring,Soft Skill
+metrics,Data / AI
+microcontrollers,Hardware / Embedded
+microprocessors,Hardware / Embedded
+microservices,DevOps / CI-CD
+microsoft dynamics,Enterprise / Business Systems
+migration tools,Enterprise / Business Systems
+mobile app development,Mobile Development
+mobile development,Mobile Development
+mobile security,Mobile Development
+model deployment,Data / AI
+modeling,AI / Advanced Analytics
+mongodb,Database / Data Technology
+monitoring,Monitoring / Observability
+monitoring tools,Monitoring / Observability
+motion graphics,Animation / Multimedia
+mulesoft,Enterprise / Business Systems
+multimedia design,Animation / Multimedia
+mvc,Framework / Library
+mysql,Database / Data Technology
+nagios,Monitoring / Observability
+natural language processing,Data / AI
+net development,Other / Review
+network design,Networking
+network monitoring,Monitoring / Observability
+network operations,Networking
+network protocols,Networking
+network reliability,Networking
+network security,Security
+networking,Networking
+networking hardware,Networking
+networking protocols,Networking
+networking technologies,Networking
+neural networks,Data / AI
+new relic,Monitoring / Observability
+nexus,DevOps / CI-CD
+nlp algorithms,Data / AI
+node,Framework / Library
+nomad,Cloud / Infrastructure
+nosql,Database / Data Technology
+notary,Compliance / Governance
+objective-c,Programming Language
+octopus deploy,DevOps / CI-CD
+off-page optimization,Marketing / SEO
+on-page optimization,Marketing / SEO
+openshift,Cloud / Infrastructure
+openstack,Cloud / Infrastructure
+oracle,Database / Data Technology
+oracle database,Database / Data Technology
+oracle sql developer,Database / Data Technology
+owasp,Security
+packer,Cloud / Infrastructure
+payment gateways,Enterprise / Business Systems
+pcb design,Hardware / Embedded
+penetration testing,Security
+performance analysis,AI / Advanced Analytics
+performance monitoring,Monitoring / Observability
+performance optimization,AI / Advanced Analytics
+performance testing,Testing / QA
+performance tuning,AI / Advanced Analytics
+php,Programming Language
+php development,Programming Language
+pl/sql,Database / Data Technology
+planning,Business / Management
+platform engineering,DevOps / CI-CD
+portfolio management,Business / Management
+postgresql,Database / Data Technology
+power bi,Data / AI
+powershell,Programming Language
+problem solving,Soft Skill
+process improvement,Business / Management
+product knowledge,Business / Management
+product management,Business / Management
+program management,Business / Management
+programming,Software Engineering
+programming languages,Software Engineering
+project management,Business / Management
+prometheus,Monitoring / Observability
+prototyping,Design / UX
+publications,Research / Analytics
+puppet,DevOps / CI-CD
+pytest,Testing / QA
+python,Programming Language
+pytorch,Framework / Library
+qa processes,Testing / QA
+quality assurance,Testing / QA
+r,Programming Language
+react,Framework / Library
+react native,Framework / Library
+redux,Framework / Library
+release management,DevOps / CI-CD
+reporting,Data / AI
+requirements gathering,Business / Management
+research and development,Research / Analytics
+research management,Research / Analytics
+research methodologies,Research / Analytics
+research methods,Research / Analytics
+responsive design,Design / UX
+rest apis,API / Integration
+restful services,API / Integration
+rigging,Animation / Multimedia
+risk assessment,Compliance / Governance
+risk management,Compliance / Governance
+roadmap planning,Business / Management
+robotics,Robotics / Control Systems
+ros,Robotics / Control Systems
+routing,Networking
+rtos,Robotics / Control Systems
+ruby,Programming Language
+ruby on rails,Framework / Library
+s3,Cloud / Infrastructure
+sales,Finance / Business
+sales leadership,Finance / Business
+sales strategy,Finance / Business
+salesforce,Enterprise / Business Systems
+salesforce administration,Enterprise / Business Systems
+sap modules,Enterprise / Business Systems
+sass,Framework / Library
+sast,Security
+scala,Programming Language
+scalability,Software Engineering
+scientific writing,Research / Analytics
+scripting,Programming Language
+scrum,Business / Management
+secrets management,Security
+secure coding,Security
+security,Security
+security analysis,Security
+security auditing,Security
+security audits,Security
+security automation,Security
+security consulting,Security
+security groups,Security
+security information and event management (siem),Security
+security leadership,Security
+security management,Security
+security policies,Security
+security protocols,Security
+security solutions,Security
+security tools,Security
+selenium,Testing / QA
+sensor technology,Hardware / Embedded
+sensors,Hardware / Embedded
+seo,Marketing / SEO
+seo strategy,Marketing / SEO
+server-side programming,Web Development
+service discovery,API / Integration
+service mesh,API / Integration
+sharepoint,Enterprise / Business Systems
+sharepoint framework,Framework / Library
+simulation,Robotics / Control Systems
+smart contracts,Blockchain / Web3
+soa,API / Integration
+software architecture,Architecture / Design
+software design,Software Engineering
+software development,Software Engineering
+software development lifecycle (sdlc),Software Engineering
+solidity,Blockchain / Web3
+sonarqube,Software Engineering
+soql,Other / Review
+spark,Data / AI
+spatial analysis,GIS / Geospatial
+splunk,Monitoring / Observability
+splunk enterprise security,Security
+spring framework,Framework / Library
+sql,Database / Data Technology
+sql server,Database / Data Technology
+sre,DevOps / CI-CD
+ssis,Database / Data Technology
+ssrs,Database / Data Technology
+stakeholder management,Business / Management
+static code analysis,Software Engineering
+statistical analysis,Data / AI
+statistical modeling,Data / AI
+statistics,Data / AI
+storyboarding,Animation / Multimedia
+storytelling,Research / Analytics
+strategic planning,Business / Management
+subnets,Networking
+swift,Programming Language
+switching,Networking
+symfony,Framework / Library
+system administration,IT Operations / Administration
+system analysis,Other / Review
+system architecture,Architecture / Design
+system design,Architecture / Design
+system engineering,Architecture / Design
+system migration,Enterprise / Business Systems
+system monitoring,Monitoring / Observability
+system reliability,DevOps / CI-CD
+systems administration,IT Operations / Administration
+systems design,Architecture / Design
+systems integration,API / Integration
+t-sql,Database / Data Technology
+tableau,Data / AI
+tcp/ip,Networking
+team facilitation,Business / Management
+team leadership,Business / Management
+team management,Business / Management
+teamcity,DevOps / CI-CD
+technical animation,Animation / Multimedia
+technical expertise,IT Service Management
+technical operations,IT Service Management
+technical sales,Business / Management
+technical support,IT Service Management
+technology adoption,Business / Management
+technology consulting,Business / Management
+technology solutions,Business / Management
+technology strategy,Business / Management
+tensorflow,Framework / Library
+terraform,Cloud / Infrastructure
+test automation,Testing / QA
+test execution,Testing / QA
+test planning,Testing / QA
+testing,Testing / QA
+testing frameworks,Testing / QA
+testng,Testing / QA
+text analysis,Data / AI
+texturing,Animation / Multimedia
+tfs (team foundation server),DevOps / CI-CD
+threat analysis,Security
+threat detection,Security
+toolpath optimization,Hardware / Embedded
+traffic management,Other / Review
+training,Business / Management
+troubleshooting,IT Operations / Administration
+trust management,Security
+typescript,Programming Language
+udeploy (urbancode deploy),DevOps / CI-CD
+ui design,Design / UX
+ui design principles,Design / UX
+ui/ux,Design / UX
+ui/ux basics,Design / UX
+ui/ux design,Design / UX
+ui/ux principles,Design / UX
+uml,Architecture / Design
+unit testing,Testing / QA
+unity,Game Development
+unity3d engine,Game Development
+unix administration,IT Operations / Administration
+unreal engine,Game Development
+usability testing,Design / UX
+user experience design principles,Design / UX
+user management,IT Operations / Administration
+user research,Design / UX
+user testing,Testing / QA
+ux/ui design,Design / UX
+validation,Testing / QA
+version control,DevOps / CI-CD
+video production,Animation / Multimedia
+virtualization,Cloud / Infrastructure
+visual communication,Design / UX
+visual design,Design / UX
+visual effects,Animation / Multimedia
+visual effects supervision,Animation / Multimedia
+visual storytelling,Design / UX
+visualforce,Framework / Library
+vpc,Cloud / Infrastructure
+vpn,Networking
+vr development,Game Development
+vsam,Mainframe / Legacy Systems
+vue.js,Framework / Library
+vulnerability assessment,Security
+vulnerability management,Security
+vulnerability scanning,Security
+wcag,Compliance / Governance
+web analytics tools,Marketing / SEO
+web api,API / Integration
+web content management,Web Development
+web design,Web Development
+web development,Web Development
+web development fundamentals,Web Development
+web technologies,Web Development
+web3,Blockchain / Web3
+webdriver,Testing / QA
+windows server,IT Operations / Administration
+windows server administration,IT Operations / Administration
+wireframing,Design / UX
+wordpress,Web Development
+workflow configuration,IT Service Management
+xcode,Mobile Development
+xl deploy,DevOps / CI-CD
+zabbix,Monitoring / Observability
