@@ -1,0 +1,2558 @@
+role,skill,weight
+admin big data,data warehousing,1.0
+admin big data,data modeling,1.0
+admin big data,mapreduce,1.0
+admin big data,azure,1.0
+admin big data,hadoop,1.0
+admin big data,etl,1.0
+admin big data,data governance,1.0
+admin big data,nosql,1.0
+admin big data,aws,1.0
+admin big data,cloud computing,1.0
+admin big data,security,1.0
+admin big data,spark,1.0
+admin big data,data lakes,1.0
+admin big data,big data architecture,1.0
+ansible operations engineer,terraform,1.0
+ansible operations engineer,kubernetes,1.0
+ansible operations engineer,linux,1.0
+ansible operations engineer,ci/cd,1.0
+ansible operations engineer,aws,1.0
+ansible operations engineer,ansible,1.0
+ansible operations engineer,python,1.0
+ansible operations engineer,networking,1.0
+ansible operations engineer,cloud platforms,1.0
+ansible operations engineer,docker,1.0
+ansible operations engineer,infrastructure as code,1.0
+ansible operations engineer,scripting,1.0
+ansible operations engineer,automation,1.0
+artifactory administrator,maven,1.0
+artifactory administrator,ci/cd,1.0
+artifactory administrator,artifactory,1.0
+artifactory administrator,jenkins,1.0
+artifactory administrator,gradle,1.0
+artifactory administrator,build automation,1.0
+artifactory administrator,version control,1.0
+artifactory administrator,cloud computing,1.0
+artifactory administrator,git,1.0
+artifactory administrator,linux,1.0
+artifactory administrator,jfrog cli,1.0
+artifactory administrator,docker,1.0
+artificial intelligence / machine learning leader,ai strategy,1.0
+artificial intelligence / machine learning leader,data science,1.0
+artificial intelligence / machine learning leader,team management,1.0
+artificial intelligence / machine learning leader,budgeting,1.0
+artificial intelligence / machine learning leader,project management,1.0
+artificial intelligence / machine learning leader,cloud computing,1.0
+artificial intelligence / machine learning leader,machine learning,1.0
+artificial intelligence / machine learning leader,communication,1.0
+artificial intelligence / machine learning leader,stakeholder management,1.0
+artificial intelligence / machine learning leader,deep learning,1.0
+artificial intelligence / machine learning sr.leader,ai strategy,1.0
+artificial intelligence / machine learning sr.leader,data science,1.0
+artificial intelligence / machine learning sr.leader,team management,1.0
+artificial intelligence / machine learning sr.leader,budgeting,1.0
+artificial intelligence / machine learning sr.leader,project management,1.0
+artificial intelligence / machine learning sr.leader,cloud computing,1.0
+artificial intelligence / machine learning sr.leader,machine learning,1.0
+artificial intelligence / machine learning sr.leader,mentoring,1.0
+artificial intelligence / machine learning sr.leader,communication,1.0
+artificial intelligence / machine learning sr.leader,stakeholder management,1.0
+artificial intelligence / machine learning sr.leader,innovation,1.0
+artificial intelligence / machine learning sr.leader,deep learning,1.0
+artificial intelligence architect,data science,1.0
+artificial intelligence architect,model deployment,1.0
+artificial intelligence architect,ai architecture,1.0
+artificial intelligence architect,aws,1.0
+artificial intelligence architect,cloud computing,1.0
+artificial intelligence architect,machine learning,1.0
+artificial intelligence architect,security,1.0
+artificial intelligence architect,scalability,1.0
+artificial intelligence architect,azure,1.0
+artificial intelligence architect,deep learning,1.0
+artificial intelligence architect,system design,1.0
+artificial intelligence researcher,statistical analysis,1.0
+artificial intelligence researcher,tensorflow,1.0
+artificial intelligence researcher,pytorch,1.0
+artificial intelligence researcher,algorithm design,1.0
+artificial intelligence researcher,python,1.0
+artificial intelligence researcher,data analysis,1.0
+artificial intelligence researcher,machine learning,1.0
+artificial intelligence researcher,scientific writing,1.0
+artificial intelligence researcher,research methods,1.0
+artificial intelligence researcher,deep learning,1.0
+big data architect,data warehousing,1.0
+big data architect,data modeling,1.0
+big data architect,mapreduce,1.0
+big data architect,hadoop,1.0
+big data architect,etl,1.0
+big data architect,data governance,1.0
+big data architect,spark,1.0
+big data architect,aws,1.0
+big data architect,cloud computing,1.0
+big data architect,security,1.0
+big data architect,nosql,1.0
+big data architect,kafka,1.0
+big data architect,data lakes,1.0
+big data architect,azure,1.0
+big data engineer,data warehousing,1.0
+big data engineer,data pipelines,1.0
+big data engineer,hadoop,1.0
+big data engineer,scala,1.0
+big data engineer,etl,1.0
+big data engineer,spark,1.0
+big data engineer,python,1.0
+big data engineer,java,1.0
+big data engineer,cloud computing,1.0
+big data engineer,nosql,1.0
+big data engineer,sql,1.0
+big data engineer,kafka,1.0
+big data specialist,data modeling,1.0
+big data specialist,statistical analysis,1.0
+big data specialist,hadoop,1.0
+big data specialist,etl,1.0
+big data specialist,data analysis,1.0
+big data specialist,nosql,1.0
+big data specialist,cloud computing,1.0
+big data specialist,data visualization,1.0
+big data specialist,spark,1.0
+big data specialist,sql,1.0
+big data specialist,data mining,1.0
+build and release engineer,maven,1.0
+build and release engineer,kubernetes,1.0
+build and release engineer,ci/cd,1.0
+build and release engineer,gradle,1.0
+build and release engineer,jenkins,1.0
+build and release engineer,linux,1.0
+build and release engineer,build tools,1.0
+build and release engineer,git,1.0
+build and release engineer,docker,1.0
+build and release engineer,scripting,1.0
+build and release engineer,automation,1.0
+build engineer,maven,1.0
+build engineer,ant,1.0
+build engineer,gradle,1.0
+build engineer,ci/cd,1.0
+build engineer,jenkins,1.0
+build engineer,linux,1.0
+build engineer,build automation,1.0
+build engineer,version control,1.0
+build engineer,git,1.0
+build engineer,scripting,1.0
+chef operations engineer,ruby,1.0
+chef operations engineer,configuration management,1.0
+chef operations engineer,linux,1.0
+chef operations engineer,chef,1.0
+chef operations engineer,aws,1.0
+chef operations engineer,cloud computing,1.0
+chef operations engineer,infrastructure as code,1.0
+chef operations engineer,azure,1.0
+chef operations engineer,automation,1.0
+data analysts,data modeling,1.0
+data analysts,r,1.0
+data analysts,etl,1.0
+data analysts,python,1.0
+data analysts,tableau,1.0
+data analysts,excel,1.0
+data analysts,data visualization,1.0
+data analysts,statistics,1.0
+data analysts,sql,1.0
+data analysts,data cleansing,1.0
+data analysts,data mining,1.0
+data analysts,power bi,1.0
+data architect,data warehousing,1.0
+data architect,data modeling,1.0
+data architect,etl,1.0
+data architect,data governance,1.0
+data architect,aws,1.0
+data architect,cloud computing,1.0
+data architect,data security,1.0
+data architect,data integration,1.0
+data architect,nosql,1.0
+data architect,sql,1.0
+data architect,azure,1.0
+devops architect,terraform,1.0
+devops architect,google cloud,1.0
+devops architect,kubernetes,1.0
+devops architect,ci/cd,1.0
+devops architect,aws,1.0
+devops architect,ansible,1.0
+devops architect,cloud computing,1.0
+devops architect,networking,1.0
+devops architect,security,1.0
+devops architect,docker,1.0
+devops architect,azure,1.0
+devops architect,automation,1.0
+devops engineer,terraform,1.0
+devops engineer,kubernetes,1.0
+devops engineer,ci/cd,1.0
+devops engineer,linux,1.0
+devops engineer,jenkins,1.0
+devops engineer,aws,1.0
+devops engineer,ansible,1.0
+devops engineer,networking,1.0
+devops engineer,python,1.0
+devops engineer,git,1.0
+devops engineer,scripting,1.0
+devops engineer,cloud computing,1.0
+devops engineer,docker,1.0
+devops engineer,azure,1.0
+devops engineer,automation,1.0
+elk engineer,kibana,1.0
+elk engineer,log management,1.0
+elk engineer,elasticsearch,1.0
+elk engineer,linux,1.0
+elk engineer,aws,1.0
+elk engineer,networking,1.0
+elk engineer,logstash,1.0
+elk engineer,security,1.0
+elk engineer,data visualization,1.0
+elk engineer,azure,1.0
+gerrit administrator,gerrit,1.0
+gerrit administrator,linux,1.0
+gerrit administrator,version control,1.0
+gerrit administrator,git,1.0
+gerrit administrator,code review,1.0
+gerrit administrator,scripting,1.0
+gerrit administrator,automation,1.0
+jenkins engineer,groovy,1.0
+jenkins engineer,kubernetes,1.0
+jenkins engineer,ci/cd,1.0
+jenkins engineer,linux,1.0
+jenkins engineer,jenkins,1.0
+jenkins engineer,version control,1.0
+jenkins engineer,build automation,1.0
+jenkins engineer,docker,1.0
+jenkins engineer,scripting,1.0
+jenkins engineer,automation,1.0
+jira administrator,atlassian suite,1.0
+jira administrator,agile methodologies,1.0
+jira administrator,project management,1.0
+jira administrator,user management,1.0
+jira administrator,workflow configuration,1.0
+jira administrator,jira,1.0
+kubernetes operations engineer,kubernetes,1.0
+kubernetes operations engineer,linux,1.0
+kubernetes operations engineer,ci/cd,1.0
+kubernetes operations engineer,aws,1.0
+kubernetes operations engineer,cloud computing,1.0
+kubernetes operations engineer,networking,1.0
+kubernetes operations engineer,security,1.0
+kubernetes operations engineer,docker,1.0
+kubernetes operations engineer,azure,1.0
+kubernetes operations engineer,automation,1.0
+machine learning architect,data science,1.0
+machine learning architect,model deployment,1.0
+machine learning architect,aws,1.0
+machine learning architect,cloud computing,1.0
+machine learning architect,machine learning,1.0
+machine learning architect,security,1.0
+machine learning architect,scalability,1.0
+machine learning architect,azure,1.0
+machine learning architect,deep learning,1.0
+machine learning architect,system design,1.0
+machine learning engineer,keras,1.0
+machine learning engineer,data science,1.0
+machine learning engineer,tensorflow,1.0
+machine learning engineer,pytorch,1.0
+machine learning engineer,python,1.0
+machine learning engineer,data analysis,1.0
+machine learning engineer,machine learning,1.0
+machine learning engineer,algorithms,1.0
+machine learning engineer,natural language processing,1.0
+machine learning engineer,computer vision,1.0
+machine learning engineer,deep learning,1.0
+operations engineer,system administration,1.0
+operations engineer,troubleshooting,1.0
+operations engineer,linux,1.0
+operations engineer,networking,1.0
+operations engineer,cloud computing,1.0
+operations engineer,monitoring,1.0
+operations engineer,windows server,1.0
+operations engineer,scripting,1.0
+operations engineer,automation,1.0
+principle engineer in artificial intelligence,ai strategy,1.0
+principle engineer in artificial intelligence,data science,1.0
+principle engineer in artificial intelligence,tensorflow,1.0
+principle engineer in artificial intelligence,python,1.0
+principle engineer in artificial intelligence,machine learning,1.0
+principle engineer in artificial intelligence,cloud computing,1.0
+principle engineer in artificial intelligence,mentoring,1.0
+principle engineer in artificial intelligence,innovation,1.0
+principle engineer in artificial intelligence,deep learning,1.0
+principle engineer in artificial intelligence,system design,1.0
+principle engineer in big data,data warehousing,1.0
+principle engineer in big data,hadoop,1.0
+principle engineer in big data,data governance,1.0
+principle engineer in big data,cloud computing,1.0
+principle engineer in big data,mentoring,1.0
+principle engineer in big data,spark,1.0
+principle engineer in big data,kafka,1.0
+principle engineer in big data,innovation,1.0
+principle engineer in big data,big data architecture,1.0
+principle engineer in data analysis,data modeling,1.0
+principle engineer in data analysis,python,1.0
+principle engineer in data analysis,data analysis,1.0
+principle engineer in data analysis,mentoring,1.0
+principle engineer in data analysis,data visualization,1.0
+principle engineer in data analysis,statistics,1.0
+principle engineer in data analysis,sql,1.0
+principle engineer in data analysis,innovation,1.0
+principle engineer in machine learning,tensorflow,1.0
+principle engineer in machine learning,model deployment,1.0
+principle engineer in machine learning,python,1.0
+principle engineer in machine learning,cloud computing,1.0
+principle engineer in machine learning,machine learning,1.0
+principle engineer in machine learning,mentoring,1.0
+principle engineer in machine learning,innovation,1.0
+principle engineer in machine learning,deep learning,1.0
+production support engineer,troubleshooting,1.0
+production support engineer,linux,1.0
+production support engineer,itil,1.0
+production support engineer,networking,1.0
+production support engineer,monitoring,1.0
+production support engineer,windows server,1.0
+production support engineer,databases,1.0
+production support engineer,scripting,1.0
+production support engineer,automation,1.0
+puppet operations engineer,ruby,1.0
+puppet operations engineer,configuration management,1.0
+puppet operations engineer,linux,1.0
+puppet operations engineer,aws,1.0
+puppet operations engineer,puppet,1.0
+puppet operations engineer,cloud computing,1.0
+puppet operations engineer,infrastructure as code,1.0
+puppet operations engineer,azure,1.0
+puppet operations engineer,automation,1.0
+senior build and release engineer,maven,1.0
+senior build and release engineer,kubernetes,1.0
+senior build and release engineer,ci/cd,1.0
+senior build and release engineer,gradle,1.0
+senior build and release engineer,jenkins,1.0
+senior build and release engineer,linux,1.0
+senior build and release engineer,leadership,1.0
+senior build and release engineer,build tools,1.0
+senior build and release engineer,git,1.0
+senior build and release engineer,mentoring,1.0
+senior build and release engineer,docker,1.0
+senior build and release engineer,scripting,1.0
+senior build and release engineer,automation,1.0
+senior build engineer,maven,1.0
+senior build engineer,ant,1.0
+senior build engineer,gradle,1.0
+senior build engineer,ci/cd,1.0
+senior build engineer,jenkins,1.0
+senior build engineer,linux,1.0
+senior build engineer,build automation,1.0
+senior build engineer,version control,1.0
+senior build engineer,leadership,1.0
+senior build engineer,git,1.0
+senior build engineer,mentoring,1.0
+senior build engineer,scripting,1.0
+senior devops engineer,terraform,1.0
+senior devops engineer,kubernetes,1.0
+senior devops engineer,ci/cd,1.0
+senior devops engineer,linux,1.0
+senior devops engineer,jenkins,1.0
+senior devops engineer,aws,1.0
+senior devops engineer,ansible,1.0
+senior devops engineer,networking,1.0
+senior devops engineer,python,1.0
+senior devops engineer,git,1.0
+senior devops engineer,cloud computing,1.0
+senior devops engineer,leadership,1.0
+senior devops engineer,docker,1.0
+senior devops engineer,azure,1.0
+senior devops engineer,automation,1.0
+site reliability engineer (kubernetes â€“ docker),kubernetes,1.0
+site reliability engineer (kubernetes â€“ docker),sre,1.0
+site reliability engineer (kubernetes â€“ docker),linux,1.0
+site reliability engineer (kubernetes â€“ docker),ci/cd,1.0
+site reliability engineer (kubernetes â€“ docker),troubleshooting,1.0
+site reliability engineer (kubernetes â€“ docker),cloud computing,1.0
+site reliability engineer (kubernetes â€“ docker),networking,1.0
+site reliability engineer (kubernetes â€“ docker),monitoring,1.0
+site reliability engineer (kubernetes â€“ docker),docker,1.0
+site reliability engineer (kubernetes â€“ docker),automation,1.0
+splunk engineer,log management,1.0
+splunk engineer,azure,1.0
+splunk engineer,linux,1.0
+splunk engineer,data analysis,1.0
+splunk engineer,aws,1.0
+splunk engineer,alerting,1.0
+splunk engineer,scripting,1.0
+splunk engineer,dashboards,1.0
+splunk engineer,splunk,1.0
+splunk engineer,security,1.0
+.net developer,.net,1.0
+.net developer,linq,1.0
+.net developer,mvc,1.0
+.net developer,entity framework,1.0
+.net developer,cloud computing,1.0
+.net developer,git,1.0
+.net developer,c#,1.0
+.net developer,web api,1.0
+.net developer,asp.net,1.0
+.net developer,sql server,1.0
+accessibility specialist,aria,1.0
+accessibility specialist,css,1.0
+accessibility specialist,ada compliance,1.0
+accessibility specialist,wcag,1.0
+accessibility specialist,javascript,1.0
+accessibility specialist,accessibility testing,1.0
+accessibility specialist,ui/ux,1.0
+accessibility specialist,html,1.0
+accessibility specialist,assistive technologies,1.0
+agile project manager,kanban,1.0
+agile project manager,agile methodologies,1.0
+agile project manager,confluence,1.0
+agile project manager,project management,1.0
+agile project manager,scrum,1.0
+agile project manager,jira,1.0
+agile project manager,communication,1.0
+agile project manager,stakeholder management,1.0
+android developer,rest apis,1.0
+android developer,mobile development,1.0
+android developer,java,1.0
+android developer,ui/ux design,1.0
+android developer,kotlin,1.0
+android developer,firebase,1.0
+android developer,android sdk,1.0
+android developer,sql,1.0
+android developer,android studio,1.0
+ansible automation engineer,linux,1.0
+ansible automation engineer,aws,1.0
+ansible automation engineer,ansible,1.0
+ansible automation engineer,cloud computing,1.0
+ansible automation engineer,python,1.0
+ansible automation engineer,scripting,1.0
+ansible automation engineer,networking,1.0
+ansible automation engineer,infrastructure as code,1.0
+ansible automation engineer,azure,1.0
+ansible automation engineer,automation,1.0
+appdynamics engineer,appdynamics,1.0
+appdynamics engineer,metrics,1.0
+appdynamics engineer,.net,1.0
+appdynamics engineer,application performance monitoring,1.0
+appdynamics engineer,troubleshooting,1.0
+appdynamics engineer,java,1.0
+appdynamics engineer,cloud computing,1.0
+appdynamics engineer,alerting,1.0
+application security engineer,application security,1.0
+application security engineer,vulnerability management,1.0
+application security engineer,secure coding,1.0
+application security engineer,cloud security,1.0
+application security engineer,penetration testing,1.0
+application security engineer,dast,1.0
+application security engineer,owasp,1.0
+application security engineer,sast,1.0
+artifactory engineer,maven,1.0
+artifactory engineer,gradle,1.0
+artifactory engineer,ci/cd,1.0
+artifactory engineer,artifactory,1.0
+artifactory engineer,jenkins,1.0
+artifactory engineer,build automation,1.0
+artifactory engineer,version control,1.0
+artifactory engineer,cloud computing,1.0
+artifactory engineer,git,1.0
+artifactory engineer,linux,1.0
+artifactory engineer,docker,1.0
+aws devops engineer,cloudformation,1.0
+aws devops engineer,terraform,1.0
+aws devops engineer,kubernetes,1.0
+aws devops engineer,ci/cd,1.0
+aws devops engineer,linux,1.0
+aws devops engineer,aws,1.0
+aws devops engineer,ansible,1.0
+aws devops engineer,devops,1.0
+aws devops engineer,docker,1.0
+aws devops engineer,scripting,1.0
+aws devops engineer,automation,1.0
+aws solutions architect,ec2,1.0
+aws solutions architect,cloudformation,1.0
+aws solutions architect,terraform,1.0
+aws solutions architect,cloud architecture,1.0
+aws solutions architect,cloud security,1.0
+aws solutions architect,aws,1.0
+aws solutions architect,networking,1.0
+aws solutions architect,aws lambda,1.0
+aws solutions architect,devops,1.0
+aws solutions architect,s3,1.0
+aws solutions architect,security,1.0
+azure devops engineer,terraform,1.0
+azure devops engineer,kubernetes,1.0
+azure devops engineer,ci/cd,1.0
+azure devops engineer,linux,1.0
+azure devops engineer,ansible,1.0
+azure devops engineer,arm templates,1.0
+azure devops engineer,scripting,1.0
+azure devops engineer,devops,1.0
+azure devops engineer,docker,1.0
+azure devops engineer,azure,1.0
+azure devops engineer,automation,1.0
+bamboo engineer,ci/cd,1.0
+bamboo engineer,atlassian suite,1.0
+bamboo engineer,version control,1.0
+bamboo engineer,build automation,1.0
+bamboo engineer,bamboo,1.0
+bamboo engineer,git,1.0
+bamboo engineer,scripting,1.0
+bamboo engineer,automation,1.0
+bitbucket engineer,ci/cd,1.0
+bitbucket engineer,atlassian suite,1.0
+bitbucket engineer,version control,1.0
+bitbucket engineer,bitbucket,1.0
+bitbucket engineer,git,1.0
+bitbucket engineer,code review,1.0
+bitbucket engineer,branching strategies,1.0
+blockchain developer,consensus algorithms,1.0
+blockchain developer,ethereum,1.0
+blockchain developer,blockchain,1.0
+blockchain developer,smart contracts,1.0
+blockchain developer,distributed ledger,1.0
+blockchain developer,javascript,1.0
+blockchain developer,node.js,1.0
+blockchain developer,cryptocurrency,1.0
+blockchain developer,solidity,1.0
+blockchain developer,web3,1.0
+business systems analyst,business analysis,1.0
+business systems analyst,uml,1.0
+business systems analyst,process improvement,1.0
+business systems analyst,sql,1.0
+business systems analyst,data analysis,1.0
+business systems analyst,bpmn,1.0
+business systems analyst,requirements gathering,1.0
+business systems analyst,stakeholder management,1.0
+c# developer,.net,1.0
+c# developer,linq,1.0
+c# developer,mvc,1.0
+c# developer,entity framework,1.0
+c# developer,cloud computing,1.0
+c# developer,git,1.0
+c# developer,c#,1.0
+c# developer,web api,1.0
+c# developer,asp.net,1.0
+c# developer,sql server,1.0
+chef inspec engineer,configuration management,1.0
+chef inspec engineer,linux,1.0
+chef inspec engineer,compliance as code,1.0
+chef inspec engineer,chef inspec,1.0
+chef inspec engineer,cloud computing,1.0
+chef inspec engineer,security,1.0
+chef inspec engineer,automation,1.0
+cloud administrator,google cloud,1.0
+cloud administrator,linux,1.0
+cloud administrator,aws,1.0
+cloud administrator,cloud computing,1.0
+cloud administrator,networking,1.0
+cloud administrator,security,1.0
+cloud administrator,scripting,1.0
+cloud administrator,virtualization,1.0
+cloud administrator,azure,1.0
+cloud administrator,automation,1.0
+cloud architect,microservices,1.0
+cloud architect,terraform,1.0
+cloud architect,cloud architecture,1.0
+cloud architect,google cloud,1.0
+cloud architect,kubernetes,1.0
+cloud architect,ci/cd,1.0
+cloud architect,cloud security,1.0
+cloud architect,aws,1.0
+cloud architect,networking,1.0
+cloud architect,docker,1.0
+cloud architect,azure,1.0
+cloud architect,automation,1.0
+cloud automation engineer,terraform,1.0
+cloud automation engineer,google cloud,1.0
+cloud automation engineer,azure,1.0
+cloud automation engineer,ci/cd,1.0
+cloud automation engineer,python,1.0
+cloud automation engineer,ansible,1.0
+cloud automation engineer,cloud computing,1.0
+cloud automation engineer,aws,1.0
+cloud automation engineer,scripting,1.0
+cloud automation engineer,automation,1.0
+cloud engineer,google cloud,1.0
+cloud engineer,linux,1.0
+cloud engineer,aws,1.0
+cloud engineer,cloud computing,1.0
+cloud engineer,networking,1.0
+cloud engineer,security,1.0
+cloud engineer,scripting,1.0
+cloud engineer,virtualization,1.0
+cloud engineer,azure,1.0
+cloud engineer,automation,1.0
+cloud network engineer,vpc,1.0
+cloud network engineer,subnets,1.0
+cloud network engineer,cloud networking,1.0
+cloud network engineer,security groups,1.0
+cloud network engineer,google cloud,1.0
+cloud network engineer,firewalls,1.0
+cloud network engineer,aws,1.0
+cloud network engineer,routing,1.0
+cloud network engineer,azure,1.0
+cloud security engineer,vulnerability management,1.0
+cloud security engineer,azure,1.0
+cloud security engineer,iam,1.0
+cloud security engineer,cloud security,1.0
+cloud security engineer,aws,1.0
+cloud security engineer,gcp,1.0
+cloud security engineer,encryption,1.0
+cloud security engineer,compliance,1.0
+cloud security engineer,identity and access management,1.0
+cnc programmer,cad/cam,1.0
+cnc programmer,manufacturing processes,1.0
+cnc programmer,cnc programming,1.0
+cnc programmer,toolpath optimization,1.0
+cnc programmer,g-code,1.0
+cnc programmer,machining,1.0
+cnc programmer,blueprints,1.0
+coder,debugging,1.0
+coder,programming,1.0
+coder,software development,1.0
+coder,algorithms,1.0
+coder,data structures,1.0
+coder,problem solving,1.0
+computer graphics animator,motion graphics,1.0
+computer graphics animator,storyboarding,1.0
+computer graphics animator,maya,1.0
+computer graphics animator,blender,1.0
+computer graphics animator,3d animation,1.0
+computer graphics animator,2d animation,1.0
+computer graphics animator,visual effects,1.0
+computer graphics animator,adobe creative suite,1.0
+computer hardware engineer,testing,1.0
+computer hardware engineer,embedded systems,1.0
+computer hardware engineer,hardware design,1.0
+computer hardware engineer,validation,1.0
+computer hardware engineer,circuit design,1.0
+computer hardware engineer,microprocessors,1.0
+computer hardware engineer,pcb design,1.0
+computer network architect,cloud networking,1.0
+computer network architect,firewalls,1.0
+computer network architect,tcp/ip,1.0
+computer network architect,lan/wan,1.0
+computer network architect,routing,1.0
+computer network architect,switching,1.0
+computer network architect,vpn,1.0
+computer network architect,security,1.0
+computer network architect,network design,1.0
+computer programmer,debugging,1.0
+computer programmer,programming,1.0
+computer programmer,python,1.0
+computer programmer,java,1.0
+computer programmer,software development,1.0
+computer programmer,algorithms,1.0
+computer programmer,data structures,1.0
+computer programmer,c++,1.0
+computer research scientist,programming,1.0
+computer research scientist,data analysis,1.0
+computer research scientist,machine learning,1.0
+computer research scientist,algorithms,1.0
+computer research scientist,publications,1.0
+computer research scientist,scientific writing,1.0
+computer research scientist,research methods,1.0
+computer systems analyst,stakeholder management,1.0
+computer systems analyst,system analysis,1.0
+computer systems analyst,uml,1.0
+computer systems analyst,process improvement,1.0
+computer systems analyst,data analysis,1.0
+computer systems analyst,requirements gathering,1.0
+computer systems analyst,sql,1.0
+confluence engineer,collaboration,1.0
+confluence engineer,atlassian suite,1.0
+confluence engineer,confluence,1.0
+confluence engineer,workflow configuration,1.0
+confluence engineer,documentation,1.0
+confluence engineer,user management,1.0
+consul engineer,configuration management,1.0
+consul engineer,networking,1.0
+consul engineer,consul,1.0
+consul engineer,cloud computing,1.0
+consul engineer,service discovery,1.0
+consul engineer,automation,1.0
+coverage.py engineer,testing,1.0
+coverage.py engineer,code coverage,1.0
+coverage.py engineer,coverage.py,1.0
+coverage.py engineer,ci/cd,1.0
+coverage.py engineer,python,1.0
+coverage.py engineer,quality assurance,1.0
+data analyst,data modeling,1.0
+data analyst,r,1.0
+data analyst,etl,1.0
+data analyst,python,1.0
+data analyst,tableau,1.0
+data analyst,excel,1.0
+data analyst,data visualization,1.0
+data analyst,statistics,1.0
+data analyst,sql,1.0
+data analyst,data cleansing,1.0
+data analyst,data mining,1.0
+data analyst,power bi,1.0
+data engineer,data warehousing,1.0
+data engineer,data modeling,1.0
+data engineer,data pipelines,1.0
+data engineer,hadoop,1.0
+data engineer,etl,1.0
+data engineer,python,1.0
+data engineer,cloud computing,1.0
+data engineer,spark,1.0
+data engineer,sql,1.0
+data modeler,data warehousing,1.0
+data modeler,data modeling,1.0
+data modeler,database design,1.0
+data modeler,data governance,1.0
+data modeler,er diagrams,1.0
+data modeler,sql,1.0
+data scientist,data science,1.0
+data scientist,r,1.0
+data scientist,hadoop,1.0
+data scientist,python,1.0
+data scientist,spark,1.0
+data scientist,machine learning,1.0
+data scientist,data wrangling,1.0
+data scientist,cloud computing,1.0
+data scientist,data visualization,1.0
+data scientist,statistics,1.0
+data scientist,sql,1.0
+database administrator,backup and recovery,1.0
+database administrator,database design,1.0
+database administrator,postgresql,1.0
+database administrator,database management,1.0
+database administrator,performance tuning,1.0
+database administrator,sql,1.0
+database administrator,mysql,1.0
+database administrator,oracle,1.0
+datadog engineer,metrics,1.0
+datadog engineer,troubleshooting,1.0
+datadog engineer,linux,1.0
+datadog engineer,datadog,1.0
+datadog engineer,cloud computing,1.0
+datadog engineer,alerting,1.0
+datadog engineer,monitoring,1.0
+datadog engineer,dashboards,1.0
+developer,debugging,1.0
+developer,programming,1.0
+developer,python,1.0
+developer,java,1.0
+developer,software development,1.0
+developer,algorithms,1.0
+developer,data structures,1.0
+developer,c++,1.0
+devops manager,team management,1.0
+devops manager,budgeting,1.0
+devops manager,ci/cd,1.0
+devops manager,leadership,1.0
+devops manager,project management,1.0
+devops manager,cloud computing,1.0
+devops manager,devops,1.0
+devops manager,communication,1.0
+devops manager,automation,1.0
+devsecops architect,terraform,1.0
+devsecops architect,vulnerability management,1.0
+devsecops architect,kubernetes,1.0
+devsecops architect,ci/cd,1.0
+devsecops architect,cloud security,1.0
+devsecops architect,ansible,1.0
+devsecops architect,security automation,1.0
+devsecops architect,docker,1.0
+devsecops architect,devsecops,1.0
+devsecops engineer,terraform,1.0
+devsecops engineer,kubernetes,1.0
+devsecops engineer,ci/cd,1.0
+devsecops engineer,vulnerability scanning,1.0
+devsecops engineer,cloud security,1.0
+devsecops engineer,continuous security,1.0
+devsecops engineer,aws,1.0
+devsecops engineer,penetration testing,1.0
+devsecops engineer,docker,1.0
+devsecops engineer,devsecops,1.0
+director of engineering,team management,1.0
+director of engineering,budgeting,1.0
+director of engineering,agile methodologies,1.0
+director of engineering,leadership,1.0
+director of engineering,project management,1.0
+director of engineering,software development,1.0
+director of engineering,communication,1.0
+docker engineer,kubernetes,1.0
+docker engineer,ci/cd,1.0
+docker engineer,linux,1.0
+docker engineer,cloud computing,1.0
+docker engineer,networking,1.0
+docker engineer,docker,1.0
+docker engineer,containerization,1.0
+docker engineer,automation,1.0
+embedded software engineer,embedded c,1.0
+embedded software engineer,testing,1.0
+embedded software engineer,hardware design,1.0
+embedded software engineer,rtos,1.0
+embedded software engineer,communication protocols,1.0
+embedded software engineer,microcontrollers,1.0
+embedded software engineer,firmware development,1.0
+entry level developer,css,1.0
+entry level developer,python,1.0
+entry level developer,java,1.0
+entry level developer,javascript,1.0
+entry level developer,git,1.0
+entry level developer,algorithms,1.0
+entry level developer,data structures,1.0
+entry level developer,html,1.0
+entry level developer,sql,1.0
+entry level network engineer,troubleshooting,1.0
+entry level network engineer,linux,1.0
+entry level network engineer,tcp/ip,1.0
+entry level network engineer,networking,1.0
+entry level network engineer,routing,1.0
+entry level network engineer,windows server,1.0
+entry level network engineer,switching,1.0
+entry level programmer,debugging,1.0
+entry level programmer,programming,1.0
+entry level programmer,python,1.0
+entry level programmer,java,1.0
+entry level programmer,algorithms,1.0
+entry level programmer,data structures,1.0
+entry level programmer,c++,1.0
+entry level software developer,css,1.0
+entry level software developer,python,1.0
+entry level software developer,java,1.0
+entry level software developer,javascript,1.0
+entry level software developer,git,1.0
+entry level software developer,algorithms,1.0
+entry level software developer,data structures,1.0
+entry level software developer,html,1.0
+entry level software developer,sql,1.0
+entry level software engineer,css,1.0
+entry level software engineer,python,1.0
+entry level software engineer,java,1.0
+entry level software engineer,javascript,1.0
+entry level software engineer,git,1.0
+entry level software engineer,algorithms,1.0
+entry level software engineer,data structures,1.0
+entry level software engineer,html,1.0
+entry level software engineer,sql,1.0
+entry level web developer,ui/ux basics,1.0
+entry level web developer,css,1.0
+entry level web developer,javascript,1.0
+entry level web developer,git,1.0
+entry level web developer,html,1.0
+entry level web developer,web development fundamentals,1.0
+envoy engineer,kubernetes,1.0
+envoy engineer,networking,1.0
+envoy engineer,cloud computing,1.0
+envoy engineer,service mesh,1.0
+envoy engineer,docker,1.0
+envoy engineer,traffic management,1.0
+envoy engineer,envoy,1.0
+envoy engineer,security,1.0
+falco engineer,kubernetes,1.0
+falco engineer,threat detection,1.0
+falco engineer,cloud computing,1.0
+falco engineer,falco,1.0
+falco engineer,docker,1.0
+falco engineer,security,1.0
+falco engineer,system monitoring,1.0
+fluentd engineer,kibana,1.0
+fluentd engineer,log management,1.0
+fluentd engineer,elasticsearch,1.0
+fluentd engineer,cloud computing,1.0
+fluentd engineer,data processing,1.0
+fluentd engineer,data collection,1.0
+fluentd engineer,fluentd,1.0
+fortify engineer,vulnerability management,1.0
+fortify engineer,.net,1.0
+fortify engineer,java,1.0
+fortify engineer,software development,1.0
+fortify engineer,static code analysis,1.0
+fortify engineer,fortify,1.0
+fortify engineer,security,1.0
+frameworks specialist,java,1.0
+frameworks specialist,react,1.0
+frameworks specialist,python,1.0
+frameworks specialist,django,1.0
+frameworks specialist,spring framework,1.0
+frameworks specialist,vue.js,1.0
+frameworks specialist,javascript,1.0
+frameworks specialist,framework development,1.0
+frameworks specialist,angular,1.0
+front end developer,typescript,1.0
+front end developer,sass,1.0
+front end developer,css,1.0
+front end developer,react,1.0
+front end developer,ui/ux design,1.0
+front end developer,javascript,1.0
+front end developer,vue.js,1.0
+front end developer,node.js,1.0
+front end developer,html,1.0
+front end developer,angular,1.0
+front end web developer,typescript,1.0
+front end web developer,sass,1.0
+front end web developer,css,1.0
+front end web developer,react,1.0
+front end web developer,ui/ux design,1.0
+front end web developer,javascript,1.0
+front end web developer,vue.js,1.0
+front end web developer,node.js,1.0
+front end web developer,html,1.0
+front end web developer,angular,1.0
+full stack developer,css,1.0
+full stack developer,mongodb,1.0
+full stack developer,express.js,1.0
+full stack developer,ci/cd,1.0
+full stack developer,python,1.0
+full stack developer,react,1.0
+full stack developer,node.js,1.0
+full stack developer,javascript,1.0
+full stack developer,django,1.0
+full stack developer,devops,1.0
+full stack developer,html,1.0
+full stack developer,sql,1.0
+full stack developer,angular,1.0
+full stack java developer/programmer/engineer,rest apis,1.0
+full stack java developer/programmer/engineer,maven,1.0
+full stack java developer/programmer/engineer,microservices,1.0
+full stack java developer/programmer/engineer,css,1.0
+full stack java developer/programmer/engineer,jenkins,1.0
+full stack java developer/programmer/engineer,java,1.0
+full stack java developer/programmer/engineer,react,1.0
+full stack java developer/programmer/engineer,cloud computing,1.0
+full stack java developer/programmer/engineer,javascript,1.0
+full stack java developer/programmer/engineer,spring framework,1.0
+full stack java developer/programmer/engineer,junit,1.0
+full stack java developer/programmer/engineer,j2ee,1.0
+full stack java developer/programmer/engineer,git,1.0
+full stack java developer/programmer/engineer,hibernate,1.0
+full stack java developer/programmer/engineer,html,1.0
+full stack java developer/programmer/engineer,sql,1.0
+full stack python developer/programmer/engineer,rest apis,1.0
+full stack python developer/programmer/engineer,flask,1.0
+full stack python developer/programmer/engineer,css,1.0
+full stack python developer/programmer/engineer,linux,1.0
+full stack python developer/programmer/engineer,python,1.0
+full stack python developer/programmer/engineer,react,1.0
+full stack python developer/programmer/engineer,cloud computing,1.0
+full stack python developer/programmer/engineer,django,1.0
+full stack python developer/programmer/engineer,git,1.0
+full stack python developer/programmer/engineer,javascript,1.0
+full stack python developer/programmer/engineer,algorithms,1.0
+full stack python developer/programmer/engineer,data structures,1.0
+full stack python developer/programmer/engineer,html,1.0
+full stack python developer/programmer/engineer,sql,1.0
+full stack python developer/programmer/engineer,docker,1.0
+game developer,game design,1.0
+game developer,javascript,1.0
+game developer,c#,1.0
+game developer,game engines,1.0
+game developer,vr development,1.0
+game developer,c++,1.0
+game developer,unreal engine,1.0
+game developer,unity,1.0
+gcp devops engineer,terraform,1.0
+gcp devops engineer,google cloud,1.0
+gcp devops engineer,kubernetes,1.0
+gcp devops engineer,ci/cd,1.0
+gcp devops engineer,linux,1.0
+gcp devops engineer,ansible,1.0
+gcp devops engineer,devops,1.0
+gcp devops engineer,docker,1.0
+gcp devops engineer,scripting,1.0
+gcp devops engineer,automation,1.0
+gerrit engineer,gerrit,1.0
+gerrit engineer,linux,1.0
+gerrit engineer,version control,1.0
+gerrit engineer,git,1.0
+gerrit engineer,code review,1.0
+gerrit engineer,scripting,1.0
+gerrit engineer,automation,1.0
+git engineer,ci/cd,1.0
+git engineer,version control,1.0
+git engineer,git,1.0
+git engineer,code review,1.0
+git engineer,branching strategies,1.0
+git engineer,scripting,1.0
+git engineer,automation,1.0
+github engineer,ci/cd,1.0
+github engineer,version control,1.0
+github engineer,github,1.0
+github engineer,git,1.0
+github engineer,scripting,1.0
+github engineer,automation,1.0
+github engineer,github actions,1.0
+gitlab engineer,gitlab,1.0
+gitlab engineer,ci/cd,1.0
+gitlab engineer,version control,1.0
+gitlab engineer,git,1.0
+gitlab engineer,gitlab ci,1.0
+gitlab engineer,scripting,1.0
+gitlab engineer,automation,1.0
+gradle engineer,groovy,1.0
+gradle engineer,ci/cd,1.0
+gradle engineer,gradle,1.0
+gradle engineer,java,1.0
+gradle engineer,build automation,1.0
+gradle engineer,version control,1.0
+gradle engineer,git,1.0
+grafana engineer,metrics,1.0
+grafana engineer,linux,1.0
+grafana engineer,cloud computing,1.0
+grafana engineer,alerting,1.0
+grafana engineer,monitoring,1.0
+grafana engineer,dashboards,1.0
+grafana engineer,data visualization,1.0
+grafana engineer,grafana,1.0
+groovy engineer,groovy,1.0
+groovy engineer,jenkins,1.0
+groovy engineer,java,1.0
+groovy engineer,build automation,1.0
+groovy engineer,scripting,1.0
+groovy engineer,automation,1.0
+information architect,user research,1.0
+information architect,content strategy,1.0
+information architect,information architecture,1.0
+information architect,ui/ux design,1.0
+information architect,prototyping,1.0
+information architect,wireframing,1.0
+information security analyst,vulnerability management,1.0
+information security analyst,ids/ips,1.0
+information security analyst,firewalls,1.0
+information security analyst,penetration testing,1.0
+information security analyst,network security,1.0
+information security analyst,security auditing,1.0
+information security analyst,security,1.0
+interaction designer,user research,1.0
+interaction designer,usability testing,1.0
+interaction designer,ui/ux design,1.0
+interaction designer,prototyping,1.0
+interaction designer,interaction design,1.0
+interaction designer,wireframing,1.0
+ios developer,xcode,1.0
+ios developer,rest apis,1.0
+ios developer,swift,1.0
+ios developer,mobile development,1.0
+ios developer,ios sdk,1.0
+ios developer,ui/ux design,1.0
+ios developer,objective-c,1.0
+ios developer,sql,1.0
+istio engineer,kubernetes,1.0
+istio engineer,cloud computing,1.0
+istio engineer,networking,1.0
+istio engineer,service mesh,1.0
+istio engineer,traffic management,1.0
+istio engineer,docker,1.0
+istio engineer,istio,1.0
+istio engineer,security,1.0
+it manager,cybersecurity,1.0
+it manager,budgeting,1.0
+it manager,it infrastructure,1.0
+it manager,agile methodologies,1.0
+it manager,team leadership,1.0
+it manager,project management,1.0
+it manager,networking,1.0
+it manager,cloud computing,1.0
+jacoco engineer,testing,1.0
+jacoco engineer,code coverage,1.0
+jacoco engineer,ci/cd,1.0
+jacoco engineer,java,1.0
+jacoco engineer,quality assurance,1.0
+jacoco engineer,jacoco,1.0
+java developer,rest apis,1.0
+java developer,maven,1.0
+java developer,microservices,1.0
+java developer,jenkins,1.0
+java developer,java,1.0
+java developer,cloud computing,1.0
+java developer,spring framework,1.0
+java developer,junit,1.0
+java developer,j2ee,1.0
+java developer,git,1.0
+java developer,hibernate,1.0
+java developer,sql,1.0
+javascript developer,typescript,1.0
+javascript developer,sass,1.0
+javascript developer,css,1.0
+javascript developer,react,1.0
+javascript developer,ui/ux design,1.0
+javascript developer,javascript,1.0
+javascript developer,vue.js,1.0
+javascript developer,node.js,1.0
+javascript developer,html,1.0
+javascript developer,angular,1.0
+jira engineer,atlassian suite,1.0
+jira engineer,agile methodologies,1.0
+jira engineer,project management,1.0
+jira engineer,user management,1.0
+jira engineer,workflow configuration,1.0
+jira engineer,jira,1.0
+jr developer,css,1.0
+jr developer,python,1.0
+jr developer,java,1.0
+jr developer,javascript,1.0
+jr developer,git,1.0
+jr developer,algorithms,1.0
+jr developer,data structures,1.0
+jr developer,html,1.0
+jr developer,sql,1.0
+junior developer,css,1.0
+junior developer,python,1.0
+junior developer,java,1.0
+junior developer,javascript,1.0
+junior developer,git,1.0
+junior developer,algorithms,1.0
+junior developer,data structures,1.0
+junior developer,html,1.0
+junior developer,sql,1.0
+junior front end developer,ui/ux basics,1.0
+junior front end developer,css,1.0
+junior front end developer,react,1.0
+junior front end developer,vue.js,1.0
+junior front end developer,javascript,1.0
+junior front end developer,git,1.0
+junior front end developer,html,1.0
+junior ios developer,xcode,1.0
+junior ios developer,ui/ux basics,1.0
+junior ios developer,swift,1.0
+junior ios developer,ios sdk,1.0
+junior ios developer,objective-c,1.0
+junior ios developer,git,1.0
+junior software developer,css,1.0
+junior software developer,python,1.0
+junior software developer,java,1.0
+junior software developer,javascript,1.0
+junior software developer,git,1.0
+junior software developer,algorithms,1.0
+junior software developer,data structures,1.0
+junior software developer,html,1.0
+junior software developer,sql,1.0
+junior software engineer,css,1.0
+junior software engineer,python,1.0
+junior software engineer,java,1.0
+junior software engineer,javascript,1.0
+junior software engineer,git,1.0
+junior software engineer,algorithms,1.0
+junior software engineer,data structures,1.0
+junior software engineer,html,1.0
+junior software engineer,sql,1.0
+junior web developer,ui/ux basics,1.0
+junior web developer,css,1.0
+junior web developer,javascript,1.0
+junior web developer,git,1.0
+junior web developer,html,1.0
+junior web developer,web development fundamentals,1.0
+junit engineer,testing,1.0
+junit engineer,unit testing,1.0
+junit engineer,ci/cd,1.0
+junit engineer,java,1.0
+junit engineer,junit,1.0
+junit engineer,test automation,1.0
+kubernetes administrator,kubernetes,1.0
+kubernetes administrator,linux,1.0
+kubernetes administrator,ci/cd,1.0
+kubernetes administrator,aws,1.0
+kubernetes administrator,cloud computing,1.0
+kubernetes administrator,networking,1.0
+kubernetes administrator,security,1.0
+kubernetes administrator,docker,1.0
+kubernetes administrator,azure,1.0
+kubernetes administrator,automation,1.0
+kubernetes engineer,kubernetes,1.0
+kubernetes engineer,linux,1.0
+kubernetes engineer,ci/cd,1.0
+kubernetes engineer,aws,1.0
+kubernetes engineer,cloud computing,1.0
+kubernetes engineer,networking,1.0
+kubernetes engineer,security,1.0
+kubernetes engineer,docker,1.0
+kubernetes engineer,azure,1.0
+kubernetes engineer,automation,1.0
+maven engineer,maven,1.0
+maven engineer,dependency management,1.0
+maven engineer,ci/cd,1.0
+maven engineer,java,1.0
+maven engineer,build automation,1.0
+maven engineer,version control,1.0
+maven engineer,git,1.0
+micro services / api lead designer,rest apis,1.0
+micro services / api lead designer,microservices,1.0
+micro services / api lead designer,api design,1.0
+micro services / api lead designer,java,1.0
+micro services / api lead designer,python,1.0
+micro services / api lead designer,cloud computing,1.0
+micro services / api lead designer,soa,1.0
+micro services / api lead designer,security,1.0
+mobile app developer,swift,1.0
+mobile app developer,flutter,1.0
+mobile app developer,mobile development,1.0
+mobile app developer,java,1.0
+mobile app developer,ui/ux design,1.0
+mobile app developer,kotlin,1.0
+mobile app developer,objective-c,1.0
+mobile app developer,react native,1.0
+mobile app developer,android sdk,1.0
+mobile app developer,ios,1.0
+mobile application developer,swift,1.0
+mobile application developer,flutter,1.0
+mobile application developer,mobile development,1.0
+mobile application developer,java,1.0
+mobile application developer,ui/ux design,1.0
+mobile application developer,kotlin,1.0
+mobile application developer,objective-c,1.0
+mobile application developer,react native,1.0
+mobile application developer,android sdk,1.0
+mobile application developer,ios,1.0
+mulesoft developer,rest apis,1.0
+mulesoft developer,java,1.0
+mulesoft developer,anypoint platform,1.0
+mulesoft developer,mulesoft,1.0
+mulesoft developer,integration,1.0
+mulesoft developer,soa,1.0
+mulesoft developer,api development,1.0
+nagios engineer,system administration,1.0
+nagios engineer,linux,1.0
+nagios engineer,nagios,1.0
+nagios engineer,networking,1.0
+nagios engineer,alerting,1.0
+nagios engineer,monitoring,1.0
+nagios engineer,scripting,1.0
+network and systems administrator,system administration,1.0
+network and systems administrator,troubleshooting,1.0
+network and systems administrator,linux,1.0
+network and systems administrator,networking,1.0
+network and systems administrator,windows server,1.0
+network and systems administrator,scripting,1.0
+network and systems administrator,automation,1.0
+network engineer,cisco,1.0
+network engineer,firewalls,1.0
+network engineer,networking protocols,1.0
+network engineer,tcp/ip,1.0
+network engineer,lan/wan,1.0
+network engineer,routing,1.0
+network engineer,switching,1.0
+network engineer,vpn,1.0
+network engineer,security,1.0
+new grad software engineer,css,1.0
+new grad software engineer,python,1.0
+new grad software engineer,java,1.0
+new grad software engineer,javascript,1.0
+new grad software engineer,git,1.0
+new grad software engineer,algorithms,1.0
+new grad software engineer,data structures,1.0
+new grad software engineer,html,1.0
+new grad software engineer,sql,1.0
+new relic engineer,new relic,1.0
+new relic engineer,metrics,1.0
+new relic engineer,.net,1.0
+new relic engineer,application performance monitoring,1.0
+new relic engineer,troubleshooting,1.0
+new relic engineer,java,1.0
+new relic engineer,cloud computing,1.0
+new relic engineer,alerting,1.0
+nexus engineer,maven,1.0
+nexus engineer,artifact repository,1.0
+nexus engineer,gradle,1.0
+nexus engineer,ci/cd,1.0
+nexus engineer,build automation,1.0
+nexus engineer,nexus,1.0
+nexus engineer,docker,1.0
+nomad engineer,nomad,1.0
+nomad engineer,linux,1.0
+nomad engineer,cloud computing,1.0
+nomad engineer,networking,1.0
+nomad engineer,container orchestration,1.0
+nomad engineer,docker,1.0
+nomad engineer,automation,1.0
+notary engineer,notary,1.0
+notary engineer,container security,1.0
+notary engineer,docker,1.0
+notary engineer,trust management,1.0
+notary engineer,security,1.0
+notary engineer,cryptography,1.0
+octopus deploy engineer,deployment automation,1.0
+octopus deploy engineer,.net,1.0
+octopus deploy engineer,powershell,1.0
+octopus deploy engineer,ci/cd,1.0
+octopus deploy engineer,cloud computing,1.0
+octopus deploy engineer,scripting,1.0
+octopus deploy engineer,octopus deploy,1.0
+openshift engineer,openshift,1.0
+openshift engineer,kubernetes,1.0
+openshift engineer,linux,1.0
+openshift engineer,ci/cd,1.0
+openshift engineer,cloud computing,1.0
+openshift engineer,docker,1.0
+openshift engineer,security,1.0
+openshift engineer,automation,1.0
+openstack engineer,linux,1.0
+openstack engineer,networking,1.0
+openstack engineer,cloud computing,1.0
+openstack engineer,scripting,1.0
+openstack engineer,openstack,1.0
+openstack engineer,virtualization,1.0
+openstack engineer,automation,1.0
+oracle developer,database design,1.0
+oracle developer,etl,1.0
+oracle developer,performance tuning,1.0
+oracle developer,sql,1.0
+oracle developer,pl/sql,1.0
+oracle developer,oracle,1.0
+oracle sql developer,oracle sql developer,1.0
+oracle sql developer,etl,1.0
+oracle sql developer,database development,1.0
+oracle sql developer,performance tuning,1.0
+oracle sql developer,sql,1.0
+oracle sql developer,pl/sql,1.0
+packer engineer,google cloud,1.0
+packer engineer,packer,1.0
+packer engineer,aws,1.0
+packer engineer,cloud computing,1.0
+packer engineer,infrastructure as code,1.0
+packer engineer,azure,1.0
+packer engineer,automation,1.0
+php developer,symfony,1.0
+php developer,css,1.0
+php developer,php,1.0
+php developer,javascript,1.0
+php developer,git,1.0
+php developer,html,1.0
+php developer,restful apis,1.0
+php developer,mysql,1.0
+php developer,laravel,1.0
+powershell engineer,powershell,1.0
+powershell engineer,active directory,1.0
+powershell engineer,cloud computing,1.0
+powershell engineer,windows server,1.0
+powershell engineer,scripting,1.0
+powershell engineer,automation,1.0
+product manager,user research,1.0
+product manager,agile methodologies,1.0
+product manager,roadmap planning,1.0
+product manager,product management,1.0
+product manager,communication,1.0
+product manager,stakeholder management,1.0
+programmer,debugging,1.0
+programmer,programming,1.0
+programmer,python,1.0
+programmer,java,1.0
+programmer,software development,1.0
+programmer,algorithms,1.0
+programmer,data structures,1.0
+programmer,c++,1.0
+programmer analyst,data modeling,1.0
+programmer analyst,programming,1.0
+programmer analyst,process improvement,1.0
+programmer analyst,data analysis,1.0
+programmer analyst,requirements gathering,1.0
+programmer analyst,sql,1.0
+prometheus engineer,metrics,1.0
+prometheus engineer,kubernetes,1.0
+prometheus engineer,cloud computing,1.0
+prometheus engineer,alerting,1.0
+prometheus engineer,monitoring,1.0
+prometheus engineer,docker,1.0
+prometheus engineer,prometheus,1.0
+puppet engineer,ruby,1.0
+puppet engineer,configuration management,1.0
+puppet engineer,linux,1.0
+puppet engineer,aws,1.0
+puppet engineer,puppet,1.0
+puppet engineer,cloud computing,1.0
+puppet engineer,infrastructure as code,1.0
+puppet engineer,azure,1.0
+puppet engineer,automation,1.0
+pytest engineer,testing,1.0
+pytest engineer,unit testing,1.0
+pytest engineer,ci/cd,1.0
+pytest engineer,python,1.0
+pytest engineer,test automation,1.0
+pytest engineer,pytest,1.0
+python developer,rest apis,1.0
+python developer,flask,1.0
+python developer,linux,1.0
+python developer,python,1.0
+python developer,cloud computing,1.0
+python developer,django,1.0
+python developer,git,1.0
+python developer,algorithms,1.0
+python developer,data structures,1.0
+python developer,sql,1.0
+python developer,docker,1.0
+qa engineer,agile testing,1.0
+qa engineer,ci/cd,1.0
+qa engineer,jenkins,1.0
+qa engineer,python,1.0
+qa engineer,git,1.0
+qa engineer,junit,1.0
+qa engineer,test automation,1.0
+qa engineer,performance testing,1.0
+qa engineer,automation testing,1.0
+qa engineer,testng,1.0
+qa engineer,selenium,1.0
+react developer,css,1.0
+react developer,react,1.0
+react developer,ui/ux design,1.0
+react developer,node.js,1.0
+react developer,javascript,1.0
+react developer,git,1.0
+react developer,redux,1.0
+react developer,html,1.0
+robotics engineer,ros,1.0
+robotics engineer,embedded systems,1.0
+robotics engineer,actuators,1.0
+robotics engineer,control systems,1.0
+robotics engineer,python,1.0
+robotics engineer,c++,1.0
+robotics engineer,robotics,1.0
+robotics engineer,sensors,1.0
+ruby on rails developer,rest apis,1.0
+ruby on rails developer,ruby,1.0
+ruby on rails developer,css,1.0
+ruby on rails developer,javascript,1.0
+ruby on rails developer,git,1.0
+ruby on rails developer,ruby on rails,1.0
+ruby on rails developer,html,1.0
+ruby on rails developer,sql,1.0
+salesforce developer,apex,1.0
+salesforce developer,rest apis,1.0
+salesforce developer,soql,1.0
+salesforce developer,lightning,1.0
+salesforce developer,salesforce,1.0
+salesforce developer,salesforce administration,1.0
+salesforce developer,visualforce,1.0
+search engine optimization,seo,1.0
+search engine optimization,content marketing,1.0
+search engine optimization,off-page optimization,1.0
+search engine optimization,analytics,1.0
+search engine optimization,keyword research,1.0
+search engine optimization,on-page optimization,1.0
+security specialist,vulnerability management,1.0
+security specialist,ids/ips,1.0
+security specialist,firewalls,1.0
+security specialist,penetration testing,1.0
+security specialist,network security,1.0
+security specialist,security auditing,1.0
+security specialist,security,1.0
+selenium engineer,ci/cd,1.0
+selenium engineer,java,1.0
+selenium engineer,python,1.0
+selenium engineer,testing frameworks,1.0
+selenium engineer,test automation,1.0
+selenium engineer,webdriver,1.0
+selenium engineer,selenium,1.0
+senior ansible development engineer,linux,1.0
+senior ansible development engineer,leadership,1.0
+senior ansible development engineer,aws,1.0
+senior ansible development engineer,ansible,1.0
+senior ansible development engineer,cloud computing,1.0
+senior ansible development engineer,python,1.0
+senior ansible development engineer,scripting,1.0
+senior ansible development engineer,networking,1.0
+senior ansible development engineer,infrastructure as code,1.0
+senior ansible development engineer,azure,1.0
+senior ansible development engineer,automation,1.0
+senior cloud architect,microservices,1.0
+senior cloud architect,cloud architecture,1.0
+senior cloud architect,google cloud,1.0
+senior cloud architect,kubernetes,1.0
+senior cloud architect,leadership,1.0
+senior cloud architect,aws,1.0
+senior cloud architect,security,1.0
+senior cloud architect,docker,1.0
+senior cloud architect,azure,1.0
+senior devops architect,terraform,1.0
+senior devops architect,google cloud,1.0
+senior devops architect,kubernetes,1.0
+senior devops architect,ci/cd,1.0
+senior devops architect,leadership,1.0
+senior devops architect,aws,1.0
+senior devops architect,ansible,1.0
+senior devops architect,cloud computing,1.0
+senior devops architect,networking,1.0
+senior devops architect,security,1.0
+senior devops architect,docker,1.0
+senior devops architect,azure,1.0
+senior devops architect,automation,1.0
+senior devsecops architect,terraform,1.0
+senior devsecops architect,vulnerability management,1.0
+senior devsecops architect,kubernetes,1.0
+senior devsecops architect,ci/cd,1.0
+senior devsecops architect,cloud security,1.0
+senior devsecops architect,leadership,1.0
+senior devsecops architect,ansible,1.0
+senior devsecops architect,security automation,1.0
+senior devsecops architect,docker,1.0
+senior devsecops architect,devsecops,1.0
+senior sre architect,kubernetes,1.0
+senior sre architect,sre,1.0
+senior sre architect,linux,1.0
+senior sre architect,ci/cd,1.0
+senior sre architect,leadership,1.0
+senior sre architect,python,1.0
+senior sre architect,networking,1.0
+senior sre architect,monitoring,1.0
+senior sre architect,devops,1.0
+senior sre architect,cloud platforms,1.0
+senior sre architect,docker,1.0
+senior sre architect,automation,1.0
+senior sre engineer,kubernetes,1.0
+senior sre engineer,sre,1.0
+senior sre engineer,linux,1.0
+senior sre engineer,ci/cd,1.0
+senior sre engineer,leadership,1.0
+senior sre engineer,python,1.0
+senior sre engineer,networking,1.0
+senior sre engineer,monitoring,1.0
+senior sre engineer,devops,1.0
+senior sre engineer,cloud platforms,1.0
+senior sre engineer,docker,1.0
+senior sre engineer,automation,1.0
+sharepoint developer,rest apis,1.0
+sharepoint developer,.net,1.0
+sharepoint developer,sharepoint,1.0
+sharepoint developer,sharepoint framework,1.0
+sharepoint developer,javascript,1.0
+sharepoint developer,c#,1.0
+sharepoint developer,powershell,1.0
+software developer,debugging,1.0
+software developer,programming,1.0
+software developer,python,1.0
+software developer,java,1.0
+software developer,software development,1.0
+software developer,algorithms,1.0
+software developer,data structures,1.0
+software developer,c++,1.0
+software engineer,software design,1.0
+software engineer,ci/cd,1.0
+software engineer,jenkins,1.0
+software engineer,java,1.0
+software engineer,python,1.0
+software engineer,cloud computing,1.0
+software engineer,git,1.0
+software engineer,algorithms,1.0
+software engineer,data structures,1.0
+software engineer,c++,1.0
+sonarqube engineer,code quality,1.0
+sonarqube engineer,.net,1.0
+sonarqube engineer,ci/cd,1.0
+sonarqube engineer,java,1.0
+sonarqube engineer,static code analysis,1.0
+sonarqube engineer,security,1.0
+sonarqube engineer,sonarqube,1.0
+splunk enterprise security engineer,security information and event management (siem),1.0
+splunk enterprise security engineer,threat detection,1.0
+splunk enterprise security engineer,splunk enterprise security,1.0
+splunk enterprise security engineer,incident response,1.0
+splunk enterprise security engineer,security analysis,1.0
+sql developer,data modeling,1.0
+sql developer,ssis,1.0
+sql developer,database design,1.0
+sql developer,etl,1.0
+sql developer,ssrs,1.0
+sql developer,performance tuning,1.0
+sql developer,t-sql,1.0
+sql developer,sql,1.0
+sql developer,sql server,1.0
+sre architect,cloud architecture,1.0
+sre architect,kubernetes,1.0
+sre architect,sre,1.0
+sre architect,incident management,1.0
+sre architect,ci/cd,1.0
+sre architect,networking,1.0
+sre architect,monitoring,1.0
+sre architect,docker,1.0
+sre architect,automation,1.0
+sre engineer,kubernetes,1.0
+sre engineer,sre,1.0
+sre engineer,linux,1.0
+sre engineer,ci/cd,1.0
+sre engineer,python,1.0
+sre engineer,monitoring,1.0
+sre engineer,devops,1.0
+sre engineer,cloud platforms,1.0
+sre engineer,docker,1.0
+sre engineer,automation,1.0
+systems administrator,troubleshooting,1.0
+systems administrator,linux administration,1.0
+systems administrator,networking,1.0
+systems administrator,virtualization,1.0
+systems administrator,windows server administration,1.0
+systems administrator,scripting,1.0
+systems engineer,linux administration,1.0
+systems engineer,cloud computing,1.0
+systems engineer,networking,1.0
+systems engineer,windows server administration,1.0
+systems engineer,systems design,1.0
+teamcity engineer,ci/cd,1.0
+teamcity engineer,version control,1.0
+teamcity engineer,build automation,1.0
+teamcity engineer,git,1.0
+teamcity engineer,teamcity,1.0
+tech sales engineer,technical sales,1.0
+tech sales engineer,product knowledge,1.0
+tech sales engineer,customer engagement,1.0
+tech sales engineer,networking technologies,1.0
+technical account manager,customer relationship management (crm),1.0
+technical account manager,account management,1.0
+technical account manager,project management,1.0
+technical account manager,technical support,1.0
+technical lead,software development lifecycle (sdlc),1.0
+technical lead,agile methodologies,1.0
+technical lead,team leadership,1.0
+technical lead,project management,1.0
+terraform engineer,terraform,1.0
+terraform engineer,google cloud,1.0
+terraform engineer,aws,1.0
+terraform engineer,infrastructure as code (iac),1.0
+terraform engineer,azure,1.0
+tfs engineer,tfs (team foundation server),1.0
+tfs engineer,.net framework,1.0
+tfs engineer,.net development tools,1.0
+udeploy engineer,ci/cd,1.0
+udeploy engineer,version control,1.0
+udeploy engineer,deployment strategies,1.0
+udeploy engineer,udeploy (urbancode deploy),1.0
+udeploy engineer,automation,1.0
+ui designer,ui design principles,1.0
+ui designer,adobe creative suite,1.0
+ui designer,figma,1.0
+ui designer,prototyping,1.0
+ui designer,user testing,1.0
+ui designer,wireframing,1.0
+ui developer,angularjs,1.0
+ui developer,css3,1.0
+ui developer,jquery,1.0
+ui developer,javascript,1.0
+ui developer,reactjs,1.0
+ui developer,responsive design,1.0
+ui developer,html5,1.0
+unity developer,unity3d engine,1.0
+unity developer,animation,1.0
+unity developer,c#,1.0
+unity developer,3d modeling,1.0
+unity developer,game development principles,1.0
+ux designer,user research,1.0
+ux designer,usability testing,1.0
+ux designer,prototyping,1.0
+ux designer,user experience design principles,1.0
+ux designer,interaction design,1.0
+ux designer,wireframing,1.0
+vault engineer,hashicorp vault,1.0
+vault engineer,cloud security,1.0
+vault engineer,encryption,1.0
+vault engineer,access control,1.0
+vault engineer,secrets management,1.0
+web designer (ui/ux designer),adobe creative suite,1.0
+web designer (ui/ux designer),ui/ux design,1.0
+web designer (ui/ux designer),figma,1.0
+web designer (ui/ux designer),prototyping,1.0
+web designer (ui/ux designer),wireframing,1.0
+web developer,angularjs,1.0
+web developer,css3,1.0
+web developer,php,1.0
+web developer,react,1.0
+web developer,node.js,1.0
+web developer,javascript,1.0
+web developer,html5,1.0
+wordpress developer,css3,1.0
+wordpress developer,php,1.0
+wordpress developer,wordpress,1.0
+wordpress developer,javascript,1.0
+wordpress developer,html5,1.0
+wordpress developer,mysql,1.0
+xl deploy engineer,ci/cd,1.0
+xl deploy engineer,deployment automation,1.0
+xl deploy engineer,version control,1.0
+xl deploy engineer,xl deploy,1.0
+zabbix engineer,alerting systems,1.0
+zabbix engineer,monitoring tools,1.0
+zabbix engineer,network monitoring,1.0
+zabbix engineer,zabbix,1.0
+accessibility specialist,user experience design,1.0
+accessibility specialist,web accessibility guidelines,1.0
+admin big data,big data management,1.0
+admin big data,sql,1.0
+agile project manager,project management tools,1.0
+agile project manager,leadership,1.0
+android developer,mobile app development,1.0
+ansible automation engineer,automation scripts,1.0
+application security engineer,compliance,1.0
+application security engineer,secure coding practices,1.0
+application security engineer,security protocols,1.0
+artifactory administrator,repository management,1.0
+artifactory administrator,ci/cd pipelines,1.0
+artifactory administrator,devops tools,1.0
+artifactory engineer,software packaging,1.0
+artifactory engineer,continuous integration,1.0
+artifactory engineer,devops practices,1.0
+artificial intelligence / machine learning leader,strategic planning,1.0
+artificial intelligence / machine learning leader,leadership,1.0
+artificial intelligence / machine learning leader,ai/ml frameworks,1.0
+artificial intelligence / machine learning sr.leader,strategic vision,1.0
+artificial intelligence / machine learning sr.leader,leadership,1.0
+artificial intelligence / machine learning sr.leader,advanced ai/ml,1.0
+artificial intelligence architect,system architecture,1.0
+artificial intelligence architect,data modeling,1.0
+artificial intelligence architect,ai/ml frameworks,1.0
+artificial intelligence researcher,ai/ml algorithms,1.0
+artificial intelligence researcher,research methodologies,1.0
+aws devops engineer,ci/cd pipelines,1.0
+aws devops engineer,aws services,1.0
+aws devops engineer,devops practices,1.0
+aws solutions architect,aws services,1.0
+aws solutions architect,solution design,1.0
+aws solutions architect,cost optimization,1.0
+azure devops engineer,ci/cd pipelines,1.0
+azure devops engineer,devops practices,1.0
+azure devops engineer,azure services,1.0
+bamboo engineer,ci/cd pipelines,1.0
+bamboo engineer,software configuration management,1.0
+big data architect,big data technologies,1.0
+big data architect,system design,1.0
+big data engineer,database management,1.0
+big data engineer,data processing,1.0
+big data engineer,etl processes,1.0
+big data specialist,big data technologies,1.0
+bitbucket engineer,ci/cd integration,1.0
+blockchain developer,cryptography,1.0
+blockchain developer,blockchain technologies,1.0
+build and release engineer,build systems,1.0
+build and release engineer,ci/cd pipelines,1.0
+build and release engineer,configuration management,1.0
+build engineer,build systems,1.0
+build engineer,software configuration management,1.0
+build engineer,automation,1.0
+business systems analyst,process analysis,1.0
+business systems analyst,documentation,1.0
+business systems analyst,system design,1.0
+c# developer,software development,1.0
+c# developer,object-oriented programming,1.0
+c# developer,.net framework,1.0
+chef inspec engineer,compliance automation,1.0
+chef inspec engineer,ruby,1.0
+chef inspec engineer,infrastructure testing,1.0
+chef operations engineer,infrastructure management,1.0
+cloud administrator,system administration,1.0
+cloud administrator,cloud platforms,1.0
+cloud architect,system architecture,1.0
+cloud architect,devops,1.0
+cloud architect,cloud platforms,1.0
+cloud automation engineer,configuration management,1.0
+cloud automation engineer,devops,1.0
+cloud automation engineer,cloud automation tools,1.0
+cloud network engineer,network security,1.0
+cloud network engineer,virtual networks,1.0
+cloud network engineer,cloud platforms,1.0
+cloud security engineer,security protocols,1.0
+cloud security engineer,cloud platforms,1.0
+cnc programmer,cad/cam software,1.0
+cnc programmer,cnc machines,1.0
+coder,programming languages,1.0
+coder,scripting,1.0
+computer graphics animator,3d modeling,1.0
+computer graphics animator,animation software,1.0
+computer graphics animator,graphic design,1.0
+computer network architect,network protocols,1.0
+computer network architect,system architecture,1.0
+computer programmer,programming languages,1.0
+computer research scientist,research methodologies,1.0
+computer systems analyst,it consulting,1.0
+computer systems analyst,systems analysis,1.0
+confluence engineer,collaboration tools,1.0
+consul engineer,infrastructure automation,1.0
+coverage.py engineer,software quality,1.0
+coverage.py engineer,python testing,1.0
+coverage.py engineer,test coverage analysis,1.0
+data analyst,statistical analysis,1.0
+data analyst,data analysis,1.0
+data architect,etl processes,1.0
+data architect,database design,1.0
+data engineer,database management,1.0
+data engineer,etl processes,1.0
+data engineer,big data technologies,1.0
+data modeler,data modeling techniques,1.0
+data modeler,data analysis,1.0
+data scientist,statistical analysis,1.0
+data scientist,data mining,1.0
+data scientist,programming,1.0
+datadog engineer,system performance,1.0
+datadog engineer,cloud infrastructure,1.0
+devops architect,devops practices,1.0
+devops architect,system architecture,1.0
+devops manager,devops practices,1.0
+devops manager,team leadership,1.0
+devsecops architect,devsecops practices,1.0
+devsecops architect,system architecture,1.0
+devsecops engineer,security automation,1.0
+devsecops engineer,scripting,1.0
+docker engineer,orchestration,1.0
+docker engineer,devops,1.0
+elk engineer,elk stack,1.0
+elk engineer,data analysis,1.0
+elk engineer,system monitoring,1.0
+embedded software engineer,hardware interfaces,1.0
+embedded software engineer,c/c++,1.0
+embedded software engineer,embedded systems,1.0
+entry level developer,problem solving,1.0
+entry level developer,learning agility,1.0
+entry level developer,software development,1.0
+entry level developer,programming basics,1.0
+entry level network engineer,system administration,1.0
+entry level network engineer,networking basics,1.0
+entry level network engineer,learning agility,1.0
+entry level programmer,problem solving,1.0
+entry level programmer,learning agility,1.0
+entry level programmer,software development,1.0
+entry level programmer,programming basics,1.0
+entry level web developer,learning agility,1.0
+entry level web developer,basic web development,1.0
+envoy engineer,load balancing,1.0
+envoy engineer,envoy proxy,1.0
+falco engineer,cloud security,1.0
+falco engineer,kubernetes security,1.0
+fluentd engineer,system monitoring,1.0
+fluentd engineer,log aggregation,1.0
+fortify engineer,secure coding,1.0
+fortify engineer,application security,1.0
+frameworks specialist,problem solving,1.0
+frameworks specialist,programming languages,1.0
+frameworks specialist,software frameworks,1.0
+frameworks specialist,system design,1.0
+front end developer,responsive design,1.0
+full stack developer,back-end technologies,1.0
+full stack developer,database management,1.0
+full stack java developer/programmer/engineer,spring,1.0
+game developer,3d modeling,1.0
+gcp devops engineer,google cloud platform,1.0
+gcp devops engineer,ci/cd pipelines,1.0
+gcp devops engineer,devops practices,1.0
+git engineer,collaboration,1.0
+github engineer,ci/cd integration,1.0
+github engineer,collaboration tools,1.0
+gitlab engineer,ci/cd pipelines,1.0
+gitlab engineer,devops practices,1.0
+gradle engineer,software configuration management,1.0
+grafana engineer,system performance,1.0
+groovy engineer,software development,1.0
+information architect,taxonomy,1.0
+information architect,user experience design,1.0
+information security analyst,compliance,1.0
+information security analyst,security protocols,1.0
+information security analyst,threat analysis,1.0
+information security analyst,incident response,1.0
+ios developer,mobile app development,1.0
+it manager,it management,1.0
+jacoco engineer,software quality,1.0
+jacoco engineer,java testing,1.0
+java developer,spring,1.0
+java developer,software development,1.0
+java developer,object-oriented programming,1.0
+jenkins engineer,ci/cd pipelines,1.0
+jenkins engineer,devops practices,1.0
+junior front end developer,learning agility,1.0
+junior front end developer,basic web development,1.0
+junior ios developer,learning agility,1.0
+junior ios developer,basic mobile app development,1.0
+junit engineer,java testing,1.0
+junit engineer,software quality,1.0
+kubernetes operations engineer,container orchestration,1.0
+kubernetes operations engineer,devops practices,1.0
+machine learning architect,system architecture,1.0
+machine learning architect,data modeling,1.0
+machine learning architect,machine learning algorithms,1.0
+machine learning engineer,model deployment,1.0
+machine learning engineer,machine learning algorithms,1.0
+maven engineer,software configuration management,1.0
+mobile app developer,mobile app development,1.0
+mobile app developer,programming languages,1.0
+mobile app developer,ios/android sdks,1.0
+mulesoft developer,mulesoft anypoint platform,1.0
+mulesoft developer,integration patterns,1.0
+mulesoft developer,api integration,1.0
+nagios engineer,system monitoring,1.0
+network and systems administrator,linux/windows servers,1.0
+network engineer,network security,1.0
+network engineer,cisco/juniper devices,1.0
+network engineer,troubleshooting,1.0
+nexus engineer,artifact management,1.0
+nexus engineer,devops practices,1.0
+nexus engineer,nexus repository manager,1.0
+nomad engineer,hashicorp tools,1.0
+nomad engineer,infrastructure automation,1.0
+openshift engineer,containerization,1.0
+openshift engineer,devops practices,1.0
+openstack engineer,system administration,1.0
+operations engineer,linux/windows servers,1.0
+oracle developer,database development,1.0
+oracle developer,oracle database,1.0
+oracle sql developer,data modeling,1.0
+oracle sql developer,oracle sql,1.0
+oracle sql developer,database design,1.0
+php developer,frameworks (laravel,1.0
+php developer,web development,1.0
+php developer,symfony),1.0
+powershell engineer,windows server administration,1.0
+principle engineer in artificial intelligence,strategic planning,1.0
+principle engineer in artificial intelligence,ai/ml architecture,1.0
+principle engineer in artificial intelligence,leadership,1.0
+principle engineer in data analysis,leadership,1.0
+principle engineer in data analysis,statistical modeling,1.0
+principle engineer in machine learning,leadership,1.0
+principle engineer in machine learning,model development,1.0
+principle engineer in machine learning,machine learning algorithms,1.0
+principle engineer in machine learning,deployment,1.0
+product manager,requirements gathering,1.0
+product manager,market analysis,1.0
+product manager,product strategy,1.0
+product manager,product roadmap,1.0
+production support engineer,incident management,1.0
+production support engineer,system monitoring,1.0
+production support engineer,technical support,1.0
+senior build and release engineer,build systems,1.0
+senior build and release engineer,ci/cd pipelines,1.0
+senior build and release engineer,configuration management,1.0
+senior build engineer,build systems,1.0
+senior build engineer,software configuration management,1.0
+senior build engineer,automation,1.0
+senior devops engineer,devops practices,1.0
+senior devops engineer,system architecture,1.0
+site reliability engineer (kubernetes ã‚â‚¬ã¯â¿â½ docker),kubernetes,1.0
+site reliability engineer (kubernetes ã‚â‚¬ã¯â¿â½ docker),system reliability,1.0
+site reliability engineer (kubernetes ã‚â‚¬ã¯â¿â½ docker),monitoring,1.0
+site reliability engineer (kubernetes ã‚â‚¬ã¯â¿â½ docker),docker,1.0
+site reliability engineer (kubernetes ã‚â‚¬ã¯â¿â½ docker),automation,1.0
+splunk engineer,system monitoring,1.0
+xl deploy engineer,configuration management,1.0
+xl deploy engineer,devops practices,1.0
+zabbix engineer,alerting,1.0
+zabbix engineer,system monitoring,1.0
+api developer,restful services,1.0
+api developer,programming languages,1.0
+api developer,security,1.0
+api developer,api design,1.0
+automation specialist,testing,1.0
+automation specialist,process improvement,1.0
+automation specialist,scripting,1.0
+automation specialist,automation tools,1.0
+business intelligence analyst,sql,1.0
+business intelligence analyst,data visualization,1.0
+business intelligence analyst,data analysis,1.0
+business intelligence analyst,business acumen,1.0
+cloud migration specialist,system migration,1.0
+cloud migration specialist,migration tools,1.0
+cloud migration specialist,project management,1.0
+cloud migration specialist,cloud platforms,1.0
+cybersecurity analyst,compliance,1.0
+cybersecurity analyst,security protocols,1.0
+cybersecurity analyst,threat analysis,1.0
+cybersecurity analyst,incident response,1.0
+data quality engineer,sql,1.0
+data quality engineer,data governance,1.0
+data quality engineer,data profiling,1.0
+data quality engineer,data quality tools,1.0
+digital transformation consultant,digital strategy,1.0
+digital transformation consultant,change management,1.0
+digital transformation consultant,business process improvement,1.0
+digital transformation consultant,technology consulting,1.0
+e-commerce developer,payment gateways,1.0
+e-commerce developer,e-commerce platforms,1.0
+e-commerce developer,security,1.0
+e-commerce developer,web development,1.0
+embedded systems engineer,hardware interfaces,1.0
+embedded systems engineer,firmware development,1.0
+embedded systems engineer,c/c++,1.0
+embedded systems engineer,embedded systems,1.0
+erp consultant,business process analysis,1.0
+erp consultant,erp systems,1.0
+erp consultant,training,1.0
+erp consultant,implementation,1.0
+geographic information systems (gis) analyst,gis software,1.0
+geographic information systems (gis) analyst,data visualization,1.0
+geographic information systems (gis) analyst,cartography,1.0
+geographic information systems (gis) analyst,spatial analysis,1.0
+help desk technician,customer service,1.0
+help desk technician,hardware/software,1.0
+help desk technician,technical support,1.0
+help desk technician,troubleshooting,1.0
+identity and access management specialist,iam systems,1.0
+identity and access management specialist,authentication,1.0
+identity and access management specialist,security protocols,1.0
+identity and access management specialist,authorization,1.0
+infrastructure architect,networking,1.0
+infrastructure architect,system architecture,1.0
+infrastructure architect,security,1.0
+infrastructure architect,cloud computing,1.0
+internet of things (iot) developer,sensor technology,1.0
+internet of things (iot) developer,embedded systems,1.0
+internet of things (iot) developer,programming languages,1.0
+internet of things (iot) developer,iot platforms,1.0
+it auditor,compliance,1.0
+it auditor,risk management,1.0
+it auditor,it auditing,1.0
+it auditor,security,1.0
+java architect,cloud computing,1.0
+java architect,system architecture,1.0
+java architect,java,1.0
+java architect,design patterns,1.0
+linux administrator,linux servers,1.0
+linux administrator,system administration,1.0
+linux administrator,scripting,1.0
+linux administrator,troubleshooting,1.0
+mainframe developer,cobol,1.0
+mainframe developer,vsam,1.0
+mainframe developer,jcl,1.0
+mainframe developer,mainframe systems,1.0
+microsoft dynamics developer,.net,1.0
+microsoft dynamics developer,development,1.0
+microsoft dynamics developer,microsoft dynamics,1.0
+microsoft dynamics developer,crm,1.0
+mobile security specialist,mobile security,1.0
+mobile security specialist,risk management,1.0
+mobile security specialist,security protocols,1.0
+mobile security specialist,penetration testing,1.0
+natural language processing engineer,text analysis,1.0
+natural language processing engineer,nlp algorithms,1.0
+natural language processing engineer,python,1.0
+natural language processing engineer,machine learning,1.0
+network architect,network protocols,1.0
+network architect,system architecture,1.0
+network architect,network design,1.0
+network architect,security,1.0
+penetration tester,security audits,1.0
+penetration tester,ethical hacking,1.0
+penetration tester,vulnerability assessment,1.0
+penetration tester,penetration testing,1.0
+python architect,cloud computing,1.0
+python architect,system architecture,1.0
+python architect,python,1.0
+python architect,design patterns,1.0
+quality assurance manager,test automation,1.0
+quality assurance manager,team leadership,1.0
+quality assurance manager,qa processes,1.0
+quality assurance manager,test planning,1.0
+release manager,ci/cd pipelines,1.0
+release manager,coordination,1.0
+release manager,release management,1.0
+release manager,communication,1.0
+sap consultant,business process analysis,1.0
+sap consultant,customization,1.0
+sap consultant,implementation,1.0
+sap consultant,sap modules,1.0
+ux/ui designer,ux/ui design,1.0
+ux/ui designer,usability testing,1.0
+ux/ui designer,prototyping,1.0
+ux/ui designer,user research,1.0
+web developer,web development,1.0
+web developer,css,1.0
+web developer,html,1.0
+web developer,frameworks,1.0
+back end developer,server-side programming,1.0
+back end developer,databases,1.0
+back end developer,api development,1.0
+back end developer,frameworks,1.0
+web designer,web design,1.0
+web designer,ui/ux principles,1.0
+web designer,wireframing,1.0
+web designer,graphic design,1.0
+web engineer,system architecture,1.0
+web engineer,web technologies,1.0
+web engineer,performance optimization,1.0
+web engineer,security,1.0
+web producer,web content management,1.0
+web producer,content strategy,1.0
+web producer,project management,1.0
+web producer,collaboration,1.0
+web project manager,budgeting,1.0
+web project manager,project management,1.0
+web project manager,web development,1.0
+web project manager,communication,1.0
+web content manager,cms,1.0
+web content manager,content creation,1.0
+web content manager,content strategy,1.0
+web content manager,seo,1.0
+multimedia architect,video production,1.0
+multimedia architect,audio production,1.0
+multimedia architect,multimedia design,1.0
+multimedia architect,graphic design,1.0
+web analytics developer,a/b testing,1.0
+web analytics developer,data analysis,1.0
+web analytics developer,reporting,1.0
+web analytics developer,web analytics tools,1.0
+seo consultant,content optimization,1.0
+seo consultant,link building,1.0
+seo consultant,search engine optimization,1.0
+seo consultant,keyword research,1.0
+seo manager,seo strategy,1.0
+seo manager,team leadership,1.0
+seo manager,performance monitoring,1.0
+seo manager,reporting,1.0
+internet engineer,networking protocols,1.0
+internet engineer,system administration,1.0
+internet engineer,security,1.0
+internet engineer,internet technologies,1.0
+front-end designer,css,1.0
+front-end designer,ui/ux design,1.0
+front-end designer,javascript,1.0
+front-end designer,html,1.0
+front-end designer,responsive design,1.0
+mobile developer,mobile app development,1.0
+mobile developer,programming languages,1.0
+mobile developer,ios/android sdks,1.0
+mobile developer,ui/ux design,1.0
+python developer,flask),1.0
+python developer,data analysis,1.0
+python developer,web frameworks (django,1.0
+python developer,scripting,1.0
+power bi developer,data modeling,1.0
+power bi developer,data visualization,1.0
+power bi developer,power bi,1.0
+power bi developer,dax,1.0
+power bi analyst,sql,1.0
+power bi analyst,business intelligence,1.0
+power bi analyst,power bi,1.0
+power bi analyst,data analysis,1.0
+cloud computing specialist,security,1.0
+cloud computing specialist,system administration,1.0
+cloud computing specialist,virtualization,1.0
+cloud computing specialist,cloud platforms,1.0
+cybersecurity specialist,compliance,1.0
+cybersecurity specialist,security protocols,1.0
+cybersecurity specialist,threat analysis,1.0
+cybersecurity specialist,incident response,1.0
+data science specialist,statistical modeling,1.0
+data science specialist,data visualization,1.0
+data science specialist,data analysis,1.0
+data science specialist,machine learning,1.0
+artificial intelligence engineer,neural networks,1.0
+artificial intelligence engineer,python,1.0
+artificial intelligence engineer,ai/ml algorithms,1.0
+artificial intelligence engineer,deep learning,1.0
+database architect,sql,1.0
+database architect,database design,1.0
+database architect,performance tuning,1.0
+database architect,data modeling,1.0
+software architect,cloud computing,1.0
+software architect,programming languages,1.0
+software architect,system architecture,1.0
+software architect,design patterns,1.0
+cybersecurity engineer,risk management,1.0
+cybersecurity engineer,security protocols,1.0
+cybersecurity engineer,threat analysis,1.0
+cybersecurity engineer,incident response,1.0
+infosec analyst/cybersecurity analyst,compliance,1.0
+infosec analyst/cybersecurity analyst,security protocols,1.0
+infosec analyst/cybersecurity analyst,threat analysis,1.0
+infosec analyst/cybersecurity analyst,incident response,1.0
+computer forensic analyst,legal compliance,1.0
+computer forensic analyst,data recovery,1.0
+computer forensic analyst,digital forensics,1.0
+computer forensic analyst,incident response,1.0
+it security specialist,compliance,1.0
+it security specialist,risk management,1.0
+it security specialist,security protocols,1.0
+it security specialist,threat analysis,1.0
+security manager,compliance,1.0
+security manager,security management,1.0
+security manager,team leadership,1.0
+security manager,risk assessment,1.0
+security engineer,risk management,1.0
+security engineer,security protocols,1.0
+security engineer,threat analysis,1.0
+security engineer,incident response,1.0
+security consultant,compliance,1.0
+security consultant,risk assessment,1.0
+security consultant,security solutions,1.0
+security consultant,security consulting,1.0
+director of security,compliance,1.0
+director of security,security leadership,1.0
+director of security,risk management,1.0
+director of security,incident response,1.0
+security administrator,system administration,1.0
+security administrator,security tools,1.0
+security administrator,user management,1.0
+security administrator,security policies,1.0
+security specialist,compliance,1.0
+security specialist,risk management,1.0
+security specialist,security protocols,1.0
+security specialist,threat analysis,1.0
+chief information officer,budgeting,1.0
+chief information officer,leadership,1.0
+chief information officer,it strategy,1.0
+chief information officer,project management,1.0
+network security engineer,networking protocols,1.0
+network security engineer,firewall management,1.0
+network security engineer,security protocols,1.0
+network security engineer,intrusion detection,1.0
+machine learning engineer for cybersecurity,threat detection,1.0
+machine learning engineer for cybersecurity,machine learning algorithms,1.0
+machine learning engineer for cybersecurity,cybersecurity,1.0
+machine learning engineer for cybersecurity,data analysis,1.0
+network analyst,network monitoring,1.0
+network analyst,performance analysis,1.0
+network analyst,reporting,1.0
+network analyst,troubleshooting,1.0
+network operations engineer,monitoring,1.0
+network operations engineer,network operations,1.0
+network operations engineer,incident response,1.0
+network operations engineer,troubleshooting,1.0
+network reliability engineer,incident response,1.0
+network reliability engineer,monitoring,1.0
+network reliability engineer,network reliability,1.0
+network reliability engineer,automation,1.0
+network infrastructure specialist,networking hardware,1.0
+network infrastructure specialist,implementation,1.0
+network infrastructure specialist,network design,1.0
+network infrastructure specialist,cabling,1.0
+computer support specialist,customer service,1.0
+computer support specialist,hardware/software,1.0
+computer support specialist,technical support,1.0
+computer support specialist,troubleshooting,1.0
+information technology analyst,requirements gathering,1.0
+information technology analyst,process improvement,1.0
+information technology analyst,it consulting,1.0
+information technology analyst,it analysis,1.0
+technology sales consultant,customer relationship management,1.0
+technology sales consultant,sales,1.0
+technology sales consultant,technical expertise,1.0
+technology sales consultant,technology solutions,1.0
+database developer,sql,1.0
+database developer,data modeling,1.0
+database developer,pl/sql,1.0
+database developer,database development,1.0
+database analyst,sql,1.0
+database analyst,data modeling,1.0
+database analyst,data analysis,1.0
+database analyst,reporting,1.0
+data warehouse manager,data warehousing,1.0
+data warehouse manager,data modeling,1.0
+data warehouse manager,etl processes,1.0
+data warehouse manager,team leadership,1.0
+data warehouse programming specialist,sql,1.0
+data warehouse programming specialist,data modeling,1.0
+data warehouse programming specialist,etl processes,1.0
+data warehouse programming specialist,data warehousing,1.0
+intelligence specialist,security,1.0
+intelligence specialist,intelligence gathering,1.0
+intelligence specialist,data analysis,1.0
+intelligence specialist,reporting,1.0
+cloud/software architect,cloud security,1.0
+cloud/software architect,system architecture,1.0
+cloud/software architect,devops,1.0
+cloud/software architect,cloud platforms,1.0
+cloud/software developer,cloud services,1.0
+cloud/software developer,programming languages,1.0
+cloud/software developer,software development,1.0
+cloud/software developer,cloud platforms,1.0
+cloud/software applications engineer,application development,1.0
+cloud/software applications engineer,devops,1.0
+cloud/software applications engineer,cloud services,1.0
+cloud/software applications engineer,cloud platforms,1.0
+cloud system administrator,system administration,1.0
+cloud system administrator,virtualization,1.0
+cloud system administrator,networking,1.0
+cloud system administrator,cloud platforms,1.0
+cloud system engineer,system engineering,1.0
+cloud system engineer,scripting,1.0
+cloud system engineer,automation,1.0
+cloud system engineer,cloud platforms,1.0
+platform engineer,automation,1.0
+platform engineer,devops practices,1.0
+platform engineer,platform engineering,1.0
+platform engineer,cloud computing,1.0
+software quality assurance analyst,test execution,1.0
+software quality assurance analyst,reporting,1.0
+software quality assurance analyst,qa processes,1.0
+software quality assurance analyst,test planning,1.0
+ui (user interface) designer,usability testing,1.0
+ui (user interface) designer,prototyping,1.0
+ui (user interface) designer,ui design,1.0
+ui (user interface) designer,user research,1.0
+technical account manager,sales,1.0
+technical account manager,customer relationship management,1.0
+it sales executive,sales strategy,1.0
+it sales executive,customer relationship management,1.0
+it sales executive,sales,1.0
+it sales executive,technology solutions,1.0
+it sales director,sales leadership,1.0
+it sales director,sales strategy,1.0
+it sales director,team management,1.0
+it sales director,customer relationship management,1.0
+technology manager,budgeting,1.0
+technology manager,team leadership,1.0
+technology manager,project management,1.0
+technology manager,it management,1.0
+technology assistant,administrative support,1.0
+technology assistant,hardware/software,1.0
+technology assistant,technical support,1.0
+technology assistant,troubleshooting,1.0
+technology specialist,problem solving,1.0
+technology specialist,it support,1.0
+technology specialist,technical expertise,1.0
+technology specialist,troubleshooting,1.0
+director oracle,budgeting,1.0
+director oracle,team leadership,1.0
+director oracle,oracle database,1.0
+director oracle,project management,1.0
+knowledge manager,collaboration,1.0
+knowledge manager,documentation,1.0
+knowledge manager,information architecture,1.0
+knowledge manager,knowledge management,1.0
+manager hardware,budgeting,1.0
+manager hardware,inventory management,1.0
+manager hardware,team leadership,1.0
+manager hardware,hardware management,1.0
+sharepoint manager,team leadership,1.0
+sharepoint manager,sharepoint,1.0
+sharepoint manager,project management,1.0
+sharepoint manager,collaboration,1.0
+requirements manager,requirements gathering,1.0
+requirements manager,documentation,1.0
+requirements manager,analysis,1.0
+requirements manager,communication,1.0
+implementation director,team leadership,1.0
+implementation director,implementation management,1.0
+implementation director,project management,1.0
+implementation director,communication,1.0
+technology officer,innovation,1.0
+technology officer,leadership,1.0
+technology officer,it strategy,1.0
+technology officer,project management,1.0
+director business systems,business systems,1.0
+director business systems,team leadership,1.0
+director business systems,project management,1.0
+director business systems,process improvement,1.0
+manager net,.net framework,1.0
+manager net,team leadership,1.0
+manager net,project management,1.0
+manager net,net development,1.0
+systems integration manager,team leadership,1.0
+systems integration manager,project management,1.0
+systems integration manager,systems integration,1.0
+systems integration manager,communication,1.0
+digital program manager,digital strategy,1.0
+digital program manager,team leadership,1.0
+digital program manager,program management,1.0
+digital program manager,communication,1.0
+integration director,team leadership,1.0
+integration director,integration management,1.0
+integration director,project management,1.0
+integration director,communication,1.0
+director hardware,budgeting,1.0
+director hardware,team leadership,1.0
+director hardware,strategic planning,1.0
+director hardware,hardware management,1.0
+manager linux,team leadership,1.0
+manager linux,linux administration,1.0
+manager linux,project management,1.0
+manager linux,troubleshooting,1.0
+manager php,php development,1.0
+manager php,team leadership,1.0
+manager php,project management,1.0
+manager php,web development,1.0
+firmware manager,embedded systems,1.0
+firmware manager,firmware development,1.0
+firmware manager,team leadership,1.0
+firmware manager,project management,1.0
+it program engagement director,it program management,1.0
+it program engagement director,stakeholder management,1.0
+it program engagement director,team leadership,1.0
+it program engagement director,customer relationship management,1.0
+manager unix,team leadership,1.0
+manager unix,unix administration,1.0
+manager unix,project management,1.0
+manager unix,troubleshooting,1.0
+technology adoption manager,technology adoption,1.0
+technology adoption manager,change management,1.0
+technology adoption manager,training,1.0
+technology adoption manager,communication,1.0
+it support specialist,customer service,1.0
+it support specialist,hardware/software,1.0
+it support specialist,technical support,1.0
+it support specialist,troubleshooting,1.0
+customer service representative,customer service,1.0
+customer service representative,problem solving,1.0
+customer service representative,technical support,1.0
+customer service representative,communication,1.0
+technical product manager,requirements gathering,1.0
+technical product manager,market analysis,1.0
+technical product manager,technical expertise,1.0
+technical product manager,product management,1.0
+project manager,execution,1.0
+project manager,project management,1.0
+project manager,planning,1.0
+project manager,communication,1.0
+program manager,execution,1.0
+program manager,program management,1.0
+program manager,planning,1.0
+program manager,communication,1.0
+portfolio manager,investment management,1.0
+portfolio manager,risk management,1.0
+portfolio manager,financial analysis,1.0
+portfolio manager,portfolio management,1.0
+chief information officer (cio),budgeting,1.0
+chief information officer (cio),leadership,1.0
+chief information officer (cio),it strategy,1.0
+chief information officer (cio),project management,1.0
+chief technology officer (cto),technology strategy,1.0
+chief technology officer (cto),research and development,1.0
+chief technology officer (cto),innovation,1.0
+chief technology officer (cto),team leadership,1.0
+it director,budgeting,1.0
+it director,team leadership,1.0
+it director,project management,1.0
+it director,it management,1.0
+technical operations officer,technical operations,1.0
+technical operations officer,incident response,1.0
+technical operations officer,system administration,1.0
+technical operations officer,infrastructure management,1.0
+information management systems director,compliance,1.0
+information management systems director,systems administration,1.0
+information management systems director,information management,1.0
+information management systems director,data management,1.0
+senior it consultant,technical expertise,1.0
+senior it consultant,client management,1.0
+senior it consultant,project management,1.0
+senior it consultant,it consulting,1.0
+technical lead,mentoring,1.0
+technical lead,technical leadership,1.0
+technical lead,software development,1.0
+it apprentice,customer service,1.0
+it apprentice,learning agility,1.0
+it apprentice,technical support,1.0
+it apprentice,troubleshooting,1.0
+it technician,networking,1.0
+it technician,hardware/software,1.0
+it technician,technical support,1.0
+it technician,troubleshooting,1.0
+it systems administrator,linux/windows servers,1.0
+it systems administrator,system administration,1.0
+it systems administrator,scripting,1.0
+it systems administrator,troubleshooting,1.0
+it engineer,system engineering,1.0
+it engineer,cloud computing,1.0
+it engineer,security,1.0
+it engineer,networking,1.0
+computer network specialist,system administration,1.0
+computer network specialist,security,1.0
+computer network specialist,networking,1.0
+computer network specialist,troubleshooting,1.0
+computer and information research scientist,scientific writing,1.0
+computer and information research scientist,data analysis,1.0
+computer and information research scientist,research methodologies,1.0
+computer and information research scientist,programming,1.0
+computer and information research manager,budgeting,1.0
+computer and information research manager,research management,1.0
+computer and information research manager,team leadership,1.0
+computer and information research manager,project management,1.0
+software development manager,software architecture,1.0
+software development manager,team leadership,1.0
+software development manager,project management,1.0
+software development manager,software development,1.0
+software development engineer,problem solving,1.0
+software development engineer,programming languages,1.0
+software development engineer,algorithm design,1.0
+software development engineer,software development,1.0
+application designer,application design,1.0
+application designer,programming languages,1.0
+application designer,ui/ux principles,1.0
+application designer,software architecture,1.0
+application engineer,application development,1.0
+application engineer,programming languages,1.0
+application engineer,system administration,1.0
+application engineer,troubleshooting,1.0
+lead programmer,programming languages,1.0
+lead programmer,team leadership,1.0
+lead programmer,software development,1.0
+lead programmer,mentoring,1.0
+iteration manager,kanban,1.0
+iteration manager,scrum,1.0
+iteration manager,agile methodologies,1.0
+iteration manager,team facilitation,1.0
+webmaster,web design,1.0
+webmaster,system administration,1.0
+webmaster,web development,1.0
+webmaster,content management,1.0
+ux/ui researcher,usability testing,1.0
+ux/ui researcher,data analysis,1.0
+ux/ui researcher,reporting,1.0
+ux/ui researcher,user research,1.0
+ux/ui specialist,ux/ui design,1.0
+ux/ui specialist,usability testing,1.0
+ux/ui specialist,prototyping,1.0
+ux/ui specialist,user research,1.0
+animator,storyboarding,1.0
+animator,visual effects,1.0
+animator,2d/3d animation,1.0
+animator,animation software,1.0
+motion graphics artist,motion graphics,1.0
+motion graphics artist,visual effects,1.0
+motion graphics artist,animation software,1.0
+motion graphics artist,graphic design,1.0
+2d artist/animator,drawing,1.0
+2d artist/animator,2d animation,1.0
+2d artist/animator,animation software,1.0
+2d artist/animator,illustration,1.0
+3d artist/animator,modeling,1.0
+3d artist/animator,rigging,1.0
+3d artist/animator,3d animation,1.0
+3d artist/animator,texturing,1.0
+character designer,animation,1.0
+character designer,character design,1.0
+character designer,drawing,1.0
+character designer,illustration,1.0
+storyboard artist,storyboarding,1.0
+storyboard artist,film/animation,1.0
+storyboard artist,drawing,1.0
+storyboard artist,visual communication,1.0
+vfx artist,simulation,1.0
+vfx artist,compositing,1.0
+vfx artist,3d modeling,1.0
+vfx artist,visual effects,1.0
+rigging artist,animation,1.0
+rigging artist,rigging,1.0
+rigging artist,3d modeling,1.0
+rigging artist,character setup,1.0
+technical animator,technical animation,1.0
+technical animator,scripting,1.0
+technical animator,animation software,1.0
+technical animator,programming,1.0
+art director,visual design,1.0
+art director,art direction,1.0
+art director,team leadership,1.0
+art director,project management,1.0
+animation director,storytelling,1.0
+animation director,team leadership,1.0
+animation director,animation direction,1.0
+animation director,project management,1.0
+visual effects animator,animation,1.0
+visual effects animator,compositing,1.0
+visual effects animator,3d modeling,1.0
+visual effects animator,visual effects,1.0
+graphic effects supervisor,visual effects supervision,1.0
+graphic effects supervisor,team leadership,1.0
+graphic effects supervisor,technical expertise,1.0
+graphic effects supervisor,project management,1.0
+forensic animator,3d modeling,1.0
+forensic animator,forensic animation,1.0
+forensic animator,legal expertise,1.0
+forensic animator,visual communication,1.0
+compositor,compositing,1.0
+compositor,image manipulation,1.0
+compositor,visual effects,1.0
+compositor,color correction,1.0
+effects technical director (fx td),scripting,1.0
+effects technical director (fx td),problem solving,1.0
+effects technical director (fx td),technical expertise,1.0
+effects technical director (fx td),visual effects,1.0
+layout artist,visual storytelling,1.0
+layout artist,cinematography,1.0
+layout artist,3d modeling,1.0
+layout artist,layout,1.0
+ai researcher,python,1.0
+ai researcher,ai/ml algorithms,1.0
+ai researcher,research methodologies,1.0
+ai researcher,data analysis,1.0
+ai software architect,ai/ml architecture,1.0
+ai software architect,software design,1.0
+ai software architect,data modeling,1.0
+ai software architect,cloud computing,1.0
+business intelligence developer,business intelligence tools,1.0
+business intelligence developer,data modeling,1.0
+business intelligence developer,etl processes,1.0
+business intelligence developer,sql,1.0

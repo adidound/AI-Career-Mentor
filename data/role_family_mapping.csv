@@ -1,0 +1,451 @@
+normalized_title,role_family
+.net developer,Software Engineering
+2d artist/animator,Animation / Multimedia
+3d artist/animator,Animation / Multimedia
+accessibility specialist,UI / UX
+accessibility specialist,Web Development
+admin big data,Data / Analytics
+agile project manager,Project / Product Management
+ai researcher,AI / Machine Learning
+ai researcher,Research
+ai software architect,Software Engineering
+android developer,Mobile Development
+android developer,Software Engineering
+animation director,Animation / Multimedia
+animator,Animation / Multimedia
+ansible automation engineer,Cloud / Infrastructure
+ansible automation engineer,DevOps / SRE
+ansible operations engineer,Cloud / Infrastructure
+ansible operations engineer,DevOps / SRE
+api developer,API / Integration
+api developer,Software Engineering
+appdynamics engineer,Cloud / Infrastructure
+appdynamics engineer,IT Operations
+appdynamics engineer,Software Engineering
+application designer,Software Engineering
+application engineer,Software Engineering
+application security engineer,Cybersecurity
+art director,Project / Product Management
+artifactory administrator,Cloud / Infrastructure
+artifactory administrator,DevOps / SRE
+artifactory engineer,Cloud / Infrastructure
+artifactory engineer,DevOps / SRE
+artificial intelligence / machine learning leader,AI / Machine Learning
+artificial intelligence / machine learning sr.leader,AI / Machine Learning
+artificial intelligence architect,AI / Machine Learning
+artificial intelligence engineer,AI / Machine Learning
+artificial intelligence researcher,AI / Machine Learning
+artificial intelligence researcher,Research
+automation specialist,DevOps / SRE
+aws devops engineer,Cloud / Infrastructure
+aws devops engineer,DevOps / SRE
+aws solutions architect,Cloud / Infrastructure
+azure devops engineer,Cloud / Infrastructure
+azure devops engineer,DevOps / SRE
+back end developer,Software Engineering
+bamboo engineer,DevOps / SRE
+big data architect,Data / Analytics
+big data engineer,Data / Analytics
+big data specialist,Data / Analytics
+bitbucket engineer,DevOps / SRE
+bitbucket engineer,Software Engineering
+blockchain developer,Software Engineering
+build and release engineer,DevOps / SRE
+build engineer,DevOps / SRE
+business intelligence analyst,Data / Analytics
+business intelligence developer,Data / Analytics
+business intelligence developer,Software Engineering
+business systems analyst,Enterprise / Business Systems
+business systems analyst,Project / Product Management
+c# developer,Software Engineering
+character designer,Animation / Multimedia
+chef inspec engineer,Cloud / Infrastructure
+chef inspec engineer,DevOps / SRE
+chef operations engineer,Cloud / Infrastructure
+chef operations engineer,DevOps / SRE
+chef operations engineer,IT Operations
+chief information officer,Finance / Business
+chief information officer,Project / Product Management
+chief information officer (cio),Finance / Business
+chief information officer (cio),Project / Product Management
+chief technology officer (cto),Project / Product Management
+cloud administrator,Cloud / Infrastructure
+cloud architect,Cloud / Infrastructure
+cloud automation engineer,Cloud / Infrastructure
+cloud computing specialist,Cloud / Infrastructure
+cloud engineer,Cloud / Infrastructure
+cloud migration specialist,Cloud / Infrastructure
+cloud network engineer,Cloud / Infrastructure
+cloud network engineer,Networking
+cloud security engineer,Cloud / Infrastructure
+cloud security engineer,Cybersecurity
+cloud system administrator,Cloud / Infrastructure
+cloud system administrator,IT Operations
+cloud system engineer,Cloud / Infrastructure
+cloud/software applications engineer,Cloud / Infrastructure
+cloud/software architect,Cloud / Infrastructure
+cloud/software architect,Software Engineering
+cloud/software developer,Cloud / Infrastructure
+cloud/software developer,Software Engineering
+cnc programmer,Hardware / Embedded
+cnc programmer,Software Engineering
+coder,Software Engineering
+compositor,Animation / Multimedia
+computer and information research manager,Research
+computer and information research scientist,Research
+computer forensic analyst,Cybersecurity
+computer graphics animator,Animation / Multimedia
+computer hardware engineer,Hardware / Embedded
+computer network architect,Networking
+computer network specialist,Networking
+computer programmer,Software Engineering
+computer research scientist,Research
+computer support specialist,IT Operations
+computer systems analyst,Project / Product Management
+confluence engineer,Enterprise / Business Systems
+consul engineer,API / Integration
+consul engineer,Cloud / Infrastructure
+consul engineer,Networking
+coverage.py engineer,Testing / QA
+customer service representative,IT Operations
+cybersecurity analyst,Cybersecurity
+cybersecurity engineer,Cybersecurity
+cybersecurity specialist,Cybersecurity
+data analyst,Data / Analytics
+data analysts,Data / Analytics
+data architect,Data / Analytics
+data engineer,Data / Analytics
+data modeler,Data / Analytics
+data quality engineer,Data / Analytics
+data science specialist,Data / Analytics
+data scientist,Data / Analytics
+data warehouse manager,Data / Analytics
+data warehouse programming specialist,Data / Analytics
+database administrator,Database
+database analyst,Database
+database architect,Database
+database developer,Database
+datadog engineer,Cloud / Infrastructure
+developer,Software Engineering
+devops architect,Cloud / Infrastructure
+devops architect,DevOps / SRE
+devops engineer,Cloud / Infrastructure
+devops engineer,DevOps / SRE
+devops manager,DevOps / SRE
+devsecops architect,DevOps / SRE
+devsecops engineer,Cloud / Infrastructure
+devsecops engineer,DevOps / SRE
+digital program manager,Project / Product Management
+digital transformation consultant,Project / Product Management
+director business systems,Enterprise / Business Systems
+director hardware,Hardware / Embedded
+director of engineering,Finance / Business
+director of engineering,Project / Product Management
+director of engineering,Software Engineering
+director of security,Cybersecurity
+director oracle,Database
+director oracle,Finance / Business
+director oracle,Project / Product Management
+docker engineer,Cloud / Infrastructure
+e-commerce developer,Software Engineering
+effects technical director (fx td),Animation / Multimedia
+elk engineer,Cloud / Infrastructure
+embedded software engineer,Hardware / Embedded
+embedded software engineer,Software Engineering
+embedded systems engineer,Hardware / Embedded
+entry level developer,Software Engineering
+entry level network engineer,Networking
+entry level programmer,Software Engineering
+entry level software developer,Software Engineering
+entry level software engineer,Software Engineering
+entry level web developer,Software Engineering
+entry level web developer,Web Development
+envoy engineer,Cloud / Infrastructure
+erp consultant,Enterprise / Business Systems
+falco engineer,Cloud / Infrastructure
+firmware manager,Hardware / Embedded
+fluentd engineer,Cloud / Infrastructure
+fluentd engineer,Data / Analytics
+forensic animator,Animation / Multimedia
+forensic animator,Cybersecurity
+fortify engineer,Software Engineering
+frameworks specialist,Software Engineering
+frameworks specialist,Web Development
+front end developer,Software Engineering
+front end developer,Web Development
+front end web developer,Software Engineering
+front end web developer,Web Development
+front-end designer,Web Development
+full stack developer,Software Engineering
+full stack developer,Web Development
+full stack java developer/programmer/engineer,Software Engineering
+full stack python developer/programmer/engineer,Software Engineering
+game developer,Game Development
+game developer,Software Engineering
+gcp devops engineer,Cloud / Infrastructure
+gcp devops engineer,DevOps / SRE
+geographic information systems (gis) analyst,GIS / Geospatial
+gerrit administrator,IT Operations
+gerrit engineer,Cloud / Infrastructure
+gerrit engineer,Software Engineering
+git engineer,DevOps / SRE
+git engineer,Software Engineering
+github engineer,DevOps / SRE
+gitlab engineer,DevOps / SRE
+gradle engineer,DevOps / SRE
+gradle engineer,Software Engineering
+grafana engineer,Cloud / Infrastructure
+graphic effects supervisor,Project / Product Management
+groovy engineer,DevOps / SRE
+help desk technician,IT Operations
+identity and access management specialist,Cybersecurity
+implementation director,Project / Product Management
+information architect,UI / UX
+information management systems director,IT Operations
+information security analyst,Cybersecurity
+information technology analyst,Project / Product Management
+infosec analyst/cybersecurity analyst,Cybersecurity
+infrastructure architect,Cloud / Infrastructure
+integration director,API / Integration
+intelligence specialist,Data / Analytics
+interaction designer,UI / UX
+internet engineer,IT Operations
+internet of things (iot) developer,Software Engineering
+ios developer,Mobile Development
+istio engineer,Cloud / Infrastructure
+it apprentice,IT Operations
+it auditor,IT Operations
+it director,Finance / Business
+it director,Project / Product Management
+it engineer,Cloud / Infrastructure
+it engineer,Networking
+it manager,Cloud / Infrastructure
+it manager,Cybersecurity
+it manager,Finance / Business
+it manager,Networking
+it manager,Project / Product Management
+it program engagement director,Enterprise / Business Systems
+it program engagement director,Project / Product Management
+it sales director,Finance / Business
+it sales executive,Finance / Business
+it security specialist,Cybersecurity
+it support specialist,IT Operations
+it systems administrator,IT Operations
+it technician,IT Operations
+iteration manager,Project / Product Management
+jacoco engineer,Testing / QA
+java architect,Cloud / Infrastructure
+java architect,Software Engineering
+java developer,Software Engineering
+javascript developer,Software Engineering
+javascript developer,Web Development
+jenkins engineer,DevOps / SRE
+jira administrator,Project / Product Management
+jira engineer,Project / Product Management
+jr developer,Software Engineering
+junior developer,Software Engineering
+junior front end developer,Software Engineering
+junior front end developer,Web Development
+junior ios developer,Mobile Development
+junior ios developer,Software Engineering
+junior software developer,Software Engineering
+junior software engineer,Software Engineering
+junior web developer,Software Engineering
+junior web developer,Web Development
+junit engineer,Testing / QA
+knowledge manager,UI / UX
+kubernetes administrator,Cloud / Infrastructure
+kubernetes engineer,Cloud / Infrastructure
+kubernetes operations engineer,Cloud / Infrastructure
+layout artist,Animation / Multimedia
+lead programmer,Software Engineering
+linux administrator,Cloud / Infrastructure
+linux administrator,IT Operations
+machine learning architect,AI / Machine Learning
+machine learning engineer,AI / Machine Learning
+machine learning engineer for cybersecurity,Cybersecurity
+mainframe developer,Software Engineering
+manager hardware,Hardware / Embedded
+manager linux,IT Operations
+manager net,Project / Product Management
+manager php,Project / Product Management
+manager php,Web Development
+manager unix,IT Operations
+manager unix,Project / Product Management
+maven engineer,DevOps / SRE
+maven engineer,Software Engineering
+micro services / api lead designer,API / Integration
+microsoft dynamics developer,Enterprise / Business Systems
+microsoft dynamics developer,Software Engineering
+mobile app developer,Mobile Development
+mobile application developer,Mobile Development
+mobile developer,Mobile Development
+mobile developer,Software Engineering
+mobile security specialist,Cybersecurity
+motion graphics artist,Animation / Multimedia
+mulesoft developer,API / Integration
+mulesoft developer,Software Engineering
+multimedia architect,Animation / Multimedia
+nagios engineer,Mobile Development
+natural language processing engineer,AI / Machine Learning
+network analyst,Networking
+network and systems administrator,IT Operations
+network and systems administrator,Networking
+network architect,Networking
+network engineer,Networking
+network infrastructure specialist,Networking
+network operations engineer,Networking
+network reliability engineer,Networking
+network security engineer,Cybersecurity
+new grad software engineer,Software Engineering
+new relic engineer,Cloud / Infrastructure
+new relic engineer,IT Operations
+new relic engineer,Software Engineering
+nexus engineer,DevOps / SRE
+nomad engineer,Cloud / Infrastructure
+notary engineer,Cloud / Infrastructure
+notary engineer,Cybersecurity
+octopus deploy engineer,DevOps / SRE
+openshift engineer,Cloud / Infrastructure
+openstack engineer,Cloud / Infrastructure
+operations engineer,IT Operations
+oracle developer,Database
+oracle sql developer,Database
+packer engineer,Cloud / Infrastructure
+penetration tester,Cybersecurity
+php developer,Software Engineering
+platform engineer,DevOps / SRE
+portfolio manager,Project / Product Management
+power bi analyst,Data / Analytics
+power bi developer,Data / Analytics
+powershell engineer,Cloud / Infrastructure
+powershell engineer,IT Operations
+principle engineer in artificial intelligence,AI / Machine Learning
+principle engineer in big data,Data / Analytics
+principle engineer in data analysis,Data / Analytics
+principle engineer in machine learning,AI / Machine Learning
+product manager,Project / Product Management
+production support engineer,IT Operations
+program manager,Project / Product Management
+programmer,Software Engineering
+programmer analyst,Software Engineering
+project manager,Project / Product Management
+prometheus engineer,Cloud / Infrastructure
+puppet engineer,Cloud / Infrastructure
+puppet engineer,DevOps / SRE
+puppet operations engineer,Cloud / Infrastructure
+puppet operations engineer,DevOps / SRE
+puppet operations engineer,IT Operations
+pytest engineer,Testing / QA
+python architect,Cloud / Infrastructure
+python architect,Software Engineering
+python developer,Software Engineering
+qa engineer,Testing / QA
+quality assurance manager,Testing / QA
+react developer,Software Engineering
+react developer,Web Development
+release manager,DevOps / SRE
+requirements manager,Project / Product Management
+rigging artist,Animation / Multimedia
+robotics engineer,Robotics
+ruby on rails developer,Software Engineering
+salesforce developer,Enterprise / Business Systems
+salesforce developer,Finance / Business
+salesforce developer,Software Engineering
+sap consultant,Enterprise / Business Systems
+search engine optimization,Marketing / SEO
+security administrator,Cybersecurity
+security consultant,Cybersecurity
+security engineer,Cybersecurity
+security manager,Cybersecurity
+security specialist,Cybersecurity
+selenium engineer,Testing / QA
+senior ansible development engineer,Cloud / Infrastructure
+senior ansible development engineer,DevOps / SRE
+senior build and release engineer,DevOps / SRE
+senior build engineer,DevOps / SRE
+senior cloud architect,Cloud / Infrastructure
+senior devops architect,Cloud / Infrastructure
+senior devops architect,DevOps / SRE
+senior devops engineer,Cloud / Infrastructure
+senior devops engineer,DevOps / SRE
+senior devsecops architect,DevOps / SRE
+senior it consultant,Project / Product Management
+senior sre architect,Cloud / Infrastructure
+senior sre architect,DevOps / SRE
+senior sre engineer,Cloud / Infrastructure
+senior sre engineer,DevOps / SRE
+seo consultant,Marketing / SEO
+seo manager,Marketing / SEO
+sharepoint developer,Enterprise / Business Systems
+sharepoint developer,Software Engineering
+sharepoint manager,Enterprise / Business Systems
+site reliability engineer (kubernetes Ã¢Â€Â“ docker),Cloud / Infrastructure
+site reliability engineer (kubernetes Ã£Â‚Ã¢Â‚Â¬Ã£Â¯Ã¢Â¿Ã¢Â½ docker),Cloud / Infrastructure
+software architect,Software Engineering
+software developer,Software Engineering
+software development engineer,Software Engineering
+software development manager,Software Engineering
+software engineer,Software Engineering
+software quality assurance analyst,Testing / QA
+sonarqube engineer,DevOps / SRE
+sonarqube engineer,Software Engineering
+sonarqube engineer,Testing / QA
+splunk engineer,Cloud / Infrastructure
+splunk enterprise security engineer,Cybersecurity
+sql developer,Database
+sre architect,Cloud / Infrastructure
+sre architect,DevOps / SRE
+sre engineer,Cloud / Infrastructure
+sre engineer,DevOps / SRE
+storyboard artist,Animation / Multimedia
+systems administrator,IT Operations
+systems engineer,Cloud / Infrastructure
+systems engineer,IT Operations
+systems engineer,Networking
+systems integration manager,API / Integration
+teamcity engineer,DevOps / SRE
+tech sales engineer,Finance / Business
+technical account manager,Finance / Business
+technical animator,Animation / Multimedia
+technical lead,Project / Product Management
+technical operations officer,IT Operations
+technical product manager,Project / Product Management
+technology adoption manager,Project / Product Management
+technology assistant,IT Operations
+technology manager,Finance / Business
+technology manager,Project / Product Management
+technology officer,Project / Product Management
+technology sales consultant,Finance / Business
+technology specialist,IT Operations
+terraform engineer,Cloud / Infrastructure
+tfs engineer,Enterprise / Business Systems
+udeploy engineer,DevOps / SRE
+ui (user interface) designer,UI / UX
+ui designer,UI / UX
+ui developer,Software Engineering
+ui developer,Web Development
+unity developer,Game Development
+unity developer,Software Engineering
+ux designer,UI / UX
+ux/ui designer,UI / UX
+ux/ui researcher,Research
+ux/ui researcher,UI / UX
+ux/ui specialist,UI / UX
+vault engineer,Cybersecurity
+vfx artist,Animation / Multimedia
+visual effects animator,Animation / Multimedia
+web analytics developer,Software Engineering
+web content manager,Marketing / SEO
+web designer,Web Development
+web designer (ui/ux designer),UI / UX
+web developer,Software Engineering
+web developer,Web Development
+web engineer,Web Development
+web producer,Web Development
+web project manager,Project / Product Management
+webmaster,Web Development
+wordpress developer,Software Engineering
+wordpress developer,Web Development
+xl deploy engineer,DevOps / SRE
+zabbix engineer,Networking

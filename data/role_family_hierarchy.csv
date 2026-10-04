@@ -1,0 +1,353 @@
+normalized_title,primary_family,primary_family_score,primary_family_share,secondary_families,secondary_family_scores,family_count
+.net developer,Software Engineering,100.04,100.0,,,1
+2d artist/animator,Animation / Multimedia,100.0,100.0,,,1
+3d artist/animator,Animation / Multimedia,100.0,100.0,,,1
+accessibility specialist,UI / UX,99.99,50.0,Web Development,99.99,2
+admin big data,Data / Analytics,100.03,100.0,,,1
+agile project manager,Project / Product Management,99.99,100.0,,,1
+ai researcher,AI / Machine Learning,100.0,50.0,Research,100.0,2
+ai software architect,Software Engineering,99.99,100.0,,,1
+android developer,Mobile Development,100.0,50.0,Software Engineering,100.0,2
+animation director,Animation / Multimedia,100.0,100.0,,,1
+animator,Animation / Multimedia,100.0,100.0,,,1
+ansible automation engineer,Cloud / Infrastructure,100.0,50.0,DevOps / SRE,100.0,2
+ansible operations engineer,Cloud / Infrastructure,99.98,50.0,DevOps / SRE,99.98,2
+api developer,API / Integration,99.99,50.0,Software Engineering,99.99,2
+appdynamics engineer,Cloud / Infrastructure,100.0,33.33,IT Operations | Software Engineering,100.0 | 100.0,3
+application designer,Software Engineering,100.0,100.0,,,1
+application engineer,Software Engineering,100.0,100.0,,,1
+application security engineer,Cybersecurity,100.0,100.0,,,1
+art director,Project / Product Management,100.0,100.0,,,1
+artifactory administrator,Cloud / Infrastructure,100.0,50.0,DevOps / SRE,100.0,2
+artifactory engineer,Cloud / Infrastructure,100.01,50.0,DevOps / SRE,100.01,2
+artificial intelligence / machine learning leader,AI / Machine Learning,99.99,100.0,,,1
+artificial intelligence / machine learning sr.leader,AI / Machine Learning,99.99,100.0,,,1
+artificial intelligence architect,AI / Machine Learning,100.02,100.0,,,1
+artificial intelligence engineer,AI / Machine Learning,99.99,100.0,,,1
+artificial intelligence researcher,AI / Machine Learning,100.0,50.0,Research,100.0,2
+automation specialist,DevOps / SRE,99.99,100.0,,,1
+aws devops engineer,Cloud / Infrastructure,100.02,50.0,DevOps / SRE,100.02,2
+aws solutions architect,Cloud / Infrastructure,100.0,100.0,,,1
+azure devops engineer,Cloud / Infrastructure,99.98,50.0,DevOps / SRE,99.98,2
+back end developer,Software Engineering,100.0,100.0,,,1
+bamboo engineer,DevOps / SRE,100.0,100.0,,,1
+big data architect,Data / Analytics,100.03,100.0,,,1
+big data engineer,Data / Analytics,99.98,100.0,,,1
+big data specialist,Data / Analytics,99.98,100.0,,,1
+bitbucket engineer,DevOps / SRE,99.99,50.0,Software Engineering,99.99,2
+blockchain developer,Software Engineering,99.99,100.0,,,1
+build and release engineer,DevOps / SRE,100.0,100.0,,,1
+build engineer,DevOps / SRE,100.0,100.0,,,1
+business intelligence analyst,Data / Analytics,100.0,100.0,,,1
+business intelligence developer,Data / Analytics,100.0,50.0,Software Engineering,100.0,2
+business systems analyst,Enterprise / Business Systems,100.02,50.0,Project / Product Management,100.02,2
+c# developer,Software Engineering,100.04,100.0,,,1
+character designer,Animation / Multimedia,100.0,100.0,,,1
+chef inspec engineer,Cloud / Infrastructure,100.0,50.0,DevOps / SRE,100.0,2
+chef operations engineer,Cloud / Infrastructure,99.99,33.33,DevOps / SRE | IT Operations,99.99 | 99.99,3
+chief information officer,Finance / Business,99.99,50.0,Project / Product Management,99.99,2
+chief information officer (cio),Finance / Business,99.99,50.0,Project / Product Management,99.99,2
+chief technology officer (cto),Project / Product Management,100.01,100.0,,,1
+cloud administrator,Cloud / Infrastructure,100.0,100.0,,,1
+cloud architect,Cloud / Infrastructure,100.0,100.0,,,1
+cloud automation engineer,Cloud / Infrastructure,99.99,100.0,,,1
+cloud computing specialist,Cloud / Infrastructure,100.0,100.0,,,1
+cloud engineer,Cloud / Infrastructure,100.0,100.0,,,1
+cloud migration specialist,Cloud / Infrastructure,100.01,100.0,,,1
+cloud network engineer,Cloud / Infrastructure,100.02,50.0,Networking,100.02,2
+cloud security engineer,Cybersecurity,99.99,50.0,Cloud / Infrastructure,99.99,2
+cloud system administrator,Cloud / Infrastructure,100.0,50.0,IT Operations,100.0,2
+cloud system engineer,Cloud / Infrastructure,99.99,100.0,,,1
+cloud/software applications engineer,Cloud / Infrastructure,100.0,100.0,,,1
+cloud/software architect,Cloud / Infrastructure,99.99,50.0,Software Engineering,99.99,2
+cloud/software developer,Cloud / Infrastructure,100.0,50.0,Software Engineering,100.0,2
+cnc programmer,Hardware / Embedded,100.02,50.0,Software Engineering,100.02,2
+coder,Software Engineering,100.01,100.0,,,1
+compositor,Animation / Multimedia,100.0,100.0,,,1
+computer and information research manager,Research,100.0,100.0,,,1
+computer and information research scientist,Research,100.0,100.0,,,1
+computer forensic analyst,Cybersecurity,100.0,100.0,,,1
+computer graphics animator,Animation / Multimedia,100.02,100.0,,,1
+computer hardware engineer,Hardware / Embedded,100.03,100.0,,,1
+computer network architect,Networking,99.99,100.0,,,1
+computer network specialist,Networking,100.0,100.0,,,1
+computer programmer,Software Engineering,100.01,100.0,,,1
+computer research scientist,Research,99.99,100.0,,,1
+computer support specialist,IT Operations,100.0,100.0,,,1
+computer systems analyst,Project / Product Management,100.0,100.0,,,1
+confluence engineer,Enterprise / Business Systems,100.01,100.0,,,1
+consul engineer,API / Integration,99.99,33.33,Cloud / Infrastructure | Networking,99.99 | 99.99,3
+coverage.py engineer,Testing / QA,100.01,100.0,,,1
+customer service representative,IT Operations,100.0,100.0,,,1
+cybersecurity analyst,Cybersecurity,100.0,100.0,,,1
+cybersecurity engineer,Cybersecurity,100.0,100.0,,,1
+cybersecurity specialist,Cybersecurity,100.0,100.0,,,1
+data analyst,Data / Analytics,100.01,100.0,,,1
+data analysts,Data / Analytics,100.01,100.0,,,1
+data architect,Data / Analytics,99.99,100.0,,,1
+data engineer,Data / Analytics,100.01,100.0,,,1
+data modeler,Data / Analytics,100.0,100.0,,,1
+data quality engineer,Data / Analytics,100.0,100.0,,,1
+data science specialist,Data / Analytics,100.0,100.0,,,1
+data scientist,Data / Analytics,99.99,100.0,,,1
+data warehouse manager,Data / Analytics,100.0,100.0,,,1
+data warehouse programming specialist,Data / Analytics,100.0,100.0,,,1
+database administrator,Database,100.02,100.0,,,1
+database analyst,Database,99.99,100.0,,,1
+database architect,Database,100.01,100.0,,,1
+database developer,Database,100.01,100.0,,,1
+datadog engineer,Cloud / Infrastructure,100.01,100.0,,,1
+developer,Software Engineering,100.01,100.0,,,1
+devops architect,Cloud / Infrastructure,100.0,50.0,DevOps / SRE,100.0,2
+devops engineer,DevOps / SRE,100.0,50.0,Cloud / Infrastructure,100.0,2
+devops manager,DevOps / SRE,100.02,100.0,,,1
+devsecops architect,DevOps / SRE,100.02,100.0,,,1
+devsecops engineer,DevOps / SRE,99.99,50.0,Cloud / Infrastructure,99.99,2
+digital program manager,Project / Product Management,100.0,100.0,,,1
+digital transformation consultant,Project / Product Management,100.0,100.0,,,1
+director business systems,Enterprise / Business Systems,100.0,100.0,,,1
+director hardware,Hardware / Embedded,100.0,100.0,,,1
+director of engineering,Finance / Business,99.98,33.33,Project / Product Management | Software Engineering,99.98 | 99.98,3
+director of security,Cybersecurity,100.0,100.0,,,1
+director oracle,Database,100.0,33.33,Finance / Business | Project / Product Management,100.0 | 100.0,3
+docker engineer,Cloud / Infrastructure,99.99,100.0,,,1
+e-commerce developer,Software Engineering,100.0,100.0,,,1
+effects technical director (fx td),Animation / Multimedia,100.0,100.0,,,1
+elk engineer,Cloud / Infrastructure,99.98,100.0,,,1
+embedded software engineer,Hardware / Embedded,99.98,50.0,Software Engineering,99.98,2
+embedded systems engineer,Hardware / Embedded,100.0,100.0,,,1
+entry level developer,Software Engineering,99.99,100.0,,,1
+entry level network engineer,Networking,100.0,100.0,,,1
+entry level programmer,Software Engineering,100.01,100.0,,,1
+entry level software developer,Software Engineering,99.99,100.0,,,1
+entry level software engineer,Software Engineering,99.99,100.0,,,1
+entry level web developer,Software Engineering,99.99,50.0,Web Development,99.99,2
+envoy engineer,Cloud / Infrastructure,100.01,100.0,,,1
+erp consultant,Enterprise / Business Systems,100.01,100.0,,,1
+falco engineer,Cloud / Infrastructure,100.01,100.0,,,1
+firmware manager,Hardware / Embedded,100.0,100.0,,,1
+fluentd engineer,Cloud / Infrastructure,100.0,50.0,Data / Analytics,100.0,2
+forensic animator,Animation / Multimedia,100.0,50.0,Cybersecurity,100.0,2
+fortify engineer,Software Engineering,100.02,100.0,,,1
+frameworks specialist,Software Engineering,99.97,50.0,Web Development,99.97,2
+front end developer,Web Development,99.98,50.0,Software Engineering,99.98,2
+front end web developer,Web Development,99.98,50.0,Software Engineering,99.98,2
+front-end designer,Web Development,100.0,100.0,,,1
+full stack developer,Software Engineering,100.01,50.0,Web Development,100.01,2
+full stack java developer/programmer/engineer,Software Engineering,100.02,100.0,,,1
+full stack python developer/programmer/engineer,Software Engineering,100.0,100.0,,,1
+game developer,Game Development,100.01,50.0,Software Engineering,100.01,2
+gcp devops engineer,Cloud / Infrastructure,100.0,50.0,DevOps / SRE,100.0,2
+geographic information systems (gis) analyst,GIS / Geospatial,100.0,100.0,,,1
+gerrit administrator,IT Operations,100.01,100.0,,,1
+gerrit engineer,Cloud / Infrastructure,100.01,50.0,Software Engineering,100.01,2
+git engineer,DevOps / SRE,100.01,50.0,Software Engineering,100.01,2
+github engineer,DevOps / SRE,100.0,100.0,,,1
+gitlab engineer,DevOps / SRE,100.0,100.0,,,1
+gradle engineer,DevOps / SRE,99.99,50.0,Software Engineering,99.99,2
+grafana engineer,Cloud / Infrastructure,99.99,100.0,,,1
+graphic effects supervisor,Project / Product Management,100.0,100.0,,,1
+groovy engineer,DevOps / SRE,100.0,100.0,,,1
+help desk technician,IT Operations,100.0,100.0,,,1
+identity and access management specialist,Cybersecurity,99.99,100.0,,,1
+implementation director,Project / Product Management,100.0,100.0,,,1
+information architect,UI / UX,100.02,100.0,,,1
+information management systems director,IT Operations,100.0,100.0,,,1
+information security analyst,Cybersecurity,100.0,100.0,,,1
+information technology analyst,Project / Product Management,99.99,100.0,,,1
+infosec analyst/cybersecurity analyst,Cybersecurity,100.0,100.0,,,1
+infrastructure architect,Cloud / Infrastructure,100.0,100.0,,,1
+integration director,API / Integration,100.01,100.0,,,1
+intelligence specialist,Data / Analytics,100.0,100.0,,,1
+interaction designer,UI / UX,99.98,100.0,,,1
+internet engineer,IT Operations,100.01,100.0,,,1
+internet of things (iot) developer,Software Engineering,100.0,100.0,,,1
+ios developer,Mobile Development,99.98,100.0,,,1
+istio engineer,Cloud / Infrastructure,100.01,100.0,,,1
+it apprentice,IT Operations,100.0,100.0,,,1
+it auditor,IT Operations,100.01,100.0,,,1
+it director,Finance / Business,100.0,50.0,Project / Product Management,100.0,2
+it engineer,Cloud / Infrastructure,100.0,50.0,Networking,100.0,2
+it manager,Cloud / Infrastructure,100.0,20.0,Cybersecurity | Finance / Business | Networking | Project / Product Management,100.0 | 100.0 | 100.0 | 100.0,5
+it program engagement director,Enterprise / Business Systems,100.0,50.0,Project / Product Management,100.0,2
+it sales director,Finance / Business,100.0,100.0,,,1
+it sales executive,Finance / Business,100.0,100.0,,,1
+it security specialist,Cybersecurity,100.0,100.0,,,1
+it support specialist,IT Operations,100.0,100.0,,,1
+it systems administrator,IT Operations,100.0,100.0,,,1
+it technician,IT Operations,100.0,100.0,,,1
+iteration manager,Project / Product Management,100.0,100.0,,,1
+jacoco engineer,Testing / QA,100.01,100.0,,,1
+java architect,Cloud / Infrastructure,100.01,50.0,Software Engineering,100.01,2
+java developer,Software Engineering,99.99,100.0,,,1
+javascript developer,Web Development,99.98,50.0,Software Engineering,99.98,2
+jenkins engineer,DevOps / SRE,100.01,100.0,,,1
+jira administrator,Project / Product Management,100.0,100.0,,,1
+jira engineer,Project / Product Management,100.0,100.0,,,1
+jr developer,Software Engineering,99.99,100.0,,,1
+junior developer,Software Engineering,99.99,100.0,,,1
+junior front end developer,Software Engineering,99.99,50.0,Web Development,99.99,2
+junior ios developer,Mobile Development,100.0,50.0,Software Engineering,100.0,2
+junior software developer,Software Engineering,99.99,100.0,,,1
+junior software engineer,Software Engineering,99.99,100.0,,,1
+junior web developer,Software Engineering,99.99,50.0,Web Development,99.99,2
+junit engineer,Testing / QA,100.01,100.0,,,1
+knowledge manager,UI / UX,100.0,100.0,,,1
+kubernetes administrator,Cloud / Infrastructure,100.0,100.0,,,1
+kubernetes engineer,Cloud / Infrastructure,100.0,100.0,,,1
+kubernetes operations engineer,Cloud / Infrastructure,100.0,100.0,,,1
+layout artist,Animation / Multimedia,100.01,100.0,,,1
+lead programmer,Software Engineering,99.99,100.0,,,1
+linux administrator,Cloud / Infrastructure,100.01,50.0,IT Operations,100.01,2
+machine learning architect,AI / Machine Learning,100.0,100.0,,,1
+machine learning engineer,AI / Machine Learning,100.01,100.0,,,1
+machine learning engineer for cybersecurity,Cybersecurity,99.99,100.0,,,1
+mainframe developer,Software Engineering,100.0,100.0,,,1
+manager hardware,Hardware / Embedded,100.0,100.0,,,1
+manager linux,IT Operations,100.01,100.0,,,1
+manager net,Project / Product Management,100.0,100.0,,,1
+manager php,Project / Product Management,99.99,50.0,Web Development,99.99,2
+manager unix,IT Operations,100.01,50.0,Project / Product Management,100.01,2
+maven engineer,DevOps / SRE,99.99,50.0,Software Engineering,99.99,2
+micro services / api lead designer,API / Integration,99.99,100.0,,,1
+microsoft dynamics developer,Enterprise / Business Systems,100.0,50.0,Software Engineering,100.0,2
+mobile app developer,Mobile Development,100.01,100.0,,,1
+mobile application developer,Mobile Development,100.01,100.0,,,1
+mobile developer,Mobile Development,100.01,50.0,Software Engineering,100.01,2
+mobile security specialist,Cybersecurity,100.01,100.0,,,1
+motion graphics artist,Animation / Multimedia,100.01,100.0,,,1
+mulesoft developer,API / Integration,100.01,50.0,Software Engineering,100.01,2
+multimedia architect,Animation / Multimedia,100.01,100.0,,,1
+nagios engineer,Mobile Development,100.02,100.0,,,1
+natural language processing engineer,AI / Machine Learning,99.99,100.0,,,1
+network analyst,Networking,100.0,100.0,,,1
+network and systems administrator,Networking,99.99,50.0,IT Operations,99.99,2
+network architect,Networking,100.0,100.0,,,1
+network engineer,Networking,99.99,100.0,,,1
+network infrastructure specialist,Networking,100.01,100.0,,,1
+network operations engineer,Networking,100.0,100.0,,,1
+network reliability engineer,Networking,100.0,100.0,,,1
+network security engineer,Cybersecurity,100.0,100.0,,,1
+new grad software engineer,Software Engineering,99.99,100.0,,,1
+new relic engineer,Cloud / Infrastructure,100.0,33.33,IT Operations | Software Engineering,100.0 | 100.0,3
+nexus engineer,DevOps / SRE,100.01,100.0,,,1
+nomad engineer,Cloud / Infrastructure,99.99,100.0,,,1
+notary engineer,Cloud / Infrastructure,100.0,50.0,Cybersecurity,100.0,2
+octopus deploy engineer,DevOps / SRE,100.01,100.0,,,1
+openshift engineer,Cloud / Infrastructure,99.98,100.0,,,1
+openstack engineer,Cloud / Infrastructure,100.0,100.0,,,1
+operations engineer,IT Operations,100.0,100.0,,,1
+oracle developer,Database,100.01,100.0,,,1
+oracle sql developer,Database,100.01,100.0,,,1
+packer engineer,Cloud / Infrastructure,100.0,100.0,,,1
+penetration tester,Cybersecurity,100.0,100.0,,,1
+php developer,Software Engineering,100.02,100.0,,,1
+platform engineer,DevOps / SRE,99.99,100.0,,,1
+portfolio manager,Project / Product Management,100.0,100.0,,,1
+power bi analyst,Data / Analytics,100.01,100.0,,,1
+power bi developer,Data / Analytics,100.01,100.0,,,1
+powershell engineer,Cloud / Infrastructure,99.99,50.0,IT Operations,99.99,2
+principle engineer in artificial intelligence,AI / Machine Learning,99.99,100.0,,,1
+principle engineer in big data,Data / Analytics,100.0,100.0,,,1
+principle engineer in data analysis,Data / Analytics,100.0,100.0,,,1
+principle engineer in machine learning,AI / Machine Learning,100.0,100.0,,,1
+product manager,Project / Product Management,100.01,100.0,,,1
+production support engineer,IT Operations,99.99,100.0,,,1
+program manager,Project / Product Management,100.0,100.0,,,1
+programmer,Software Engineering,100.01,100.0,,,1
+programmer analyst,Software Engineering,99.99,100.0,,,1
+project manager,Project / Product Management,100.0,100.0,,,1
+prometheus engineer,Cloud / Infrastructure,100.0,100.0,,,1
+puppet engineer,Cloud / Infrastructure,99.99,50.0,DevOps / SRE,99.99,2
+puppet operations engineer,Cloud / Infrastructure,99.99,33.33,DevOps / SRE | IT Operations,99.99 | 99.99,3
+pytest engineer,Testing / QA,100.01,100.0,,,1
+python architect,Cloud / Infrastructure,99.99,50.0,Software Engineering,99.99,2
+python developer,Software Engineering,100.0,100.0,,,1
+qa engineer,Testing / QA,99.99,100.0,,,1
+quality assurance manager,Testing / QA,100.01,100.0,,,1
+react developer,Web Development,100.01,50.0,Software Engineering,100.01,2
+release manager,DevOps / SRE,99.99,100.0,,,1
+requirements manager,Project / Product Management,100.0,100.0,,,1
+rigging artist,Animation / Multimedia,100.0,100.0,,,1
+robotics engineer,Robotics,100.03,100.0,,,1
+ruby on rails developer,Software Engineering,100.0,100.0,,,1
+salesforce developer,Enterprise / Business Systems,100.01,33.33,Finance / Business | Software Engineering,100.01 | 100.01,3
+sap consultant,Enterprise / Business Systems,99.99,100.0,,,1
+search engine optimization,Marketing / SEO,100.0,100.0,,,1
+security administrator,Cybersecurity,100.0,100.0,,,1
+security consultant,Cybersecurity,100.0,100.0,,,1
+security engineer,Cybersecurity,100.0,100.0,,,1
+security manager,Cybersecurity,100.0,100.0,,,1
+security specialist,Cybersecurity,100.0,100.0,,,1
+selenium engineer,Testing / QA,100.0,100.0,,,1
+senior ansible development engineer,Cloud / Infrastructure,99.98,50.0,DevOps / SRE,99.98,2
+senior build and release engineer,DevOps / SRE,100.0,100.0,,,1
+senior build engineer,DevOps / SRE,99.99,100.0,,,1
+senior cloud architect,Cloud / Infrastructure,100.0,100.0,,,1
+senior devops architect,Cloud / Infrastructure,99.99,50.0,DevOps / SRE,99.99,2
+senior devops engineer,Cloud / Infrastructure,100.02,50.0,DevOps / SRE,100.02,2
+senior devsecops architect,DevOps / SRE,100.02,100.0,,,1
+senior it consultant,Project / Product Management,99.99,100.0,,,1
+senior sre architect,Cloud / Infrastructure,100.01,50.0,DevOps / SRE,100.01,2
+senior sre engineer,Cloud / Infrastructure,100.01,50.0,DevOps / SRE,100.01,2
+seo consultant,Marketing / SEO,100.0,100.0,,,1
+seo manager,Marketing / SEO,100.0,100.0,,,1
+sharepoint developer,Enterprise / Business Systems,100.02,50.0,Software Engineering,100.02,2
+sharepoint manager,Enterprise / Business Systems,100.0,100.0,,,1
+site reliability engineer (kubernetes ã¢â€â“ docker),Cloud / Infrastructure,100.0,100.0,,,1
+site reliability engineer (kubernetes ã£â‚ã¢â‚â¬ã£â¯ã¢â¿ã¢â½ docker),Cloud / Infrastructure,100.0,100.0,,,1
+software architect,Software Engineering,100.01,100.0,,,1
+software developer,Software Engineering,100.01,100.0,,,1
+software development engineer,Software Engineering,100.01,100.0,,,1
+software development manager,Software Engineering,100.0,100.0,,,1
+software engineer,Software Engineering,99.99,100.0,,,1
+software quality assurance analyst,Testing / QA,100.0,100.0,,,1
+sonarqube engineer,DevOps / SRE,99.99,33.33,Software Engineering | Testing / QA,99.99 | 99.99,3
+splunk engineer,Cloud / Infrastructure,99.99,100.0,,,1
+splunk enterprise security engineer,Cybersecurity,100.0,100.0,,,1
+sql developer,Database,99.99,100.0,,,1
+sre architect,Cloud / Infrastructure,100.0,50.0,DevOps / SRE,100.0,2
+sre engineer,Cloud / Infrastructure,100.0,50.0,DevOps / SRE,100.0,2
+storyboard artist,Animation / Multimedia,100.01,100.0,,,1
+systems administrator,IT Operations,100.01,100.0,,,1
+systems engineer,Cloud / Infrastructure,100.0,33.33,IT Operations | Networking,100.0 | 100.0,3
+systems integration manager,API / Integration,100.01,100.0,,,1
+teamcity engineer,DevOps / SRE,100.0,100.0,,,1
+tech sales engineer,Finance / Business,99.99,100.0,,,1
+technical account manager,Finance / Business,100.0,100.0,,,1
+technical animator,Animation / Multimedia,100.01,100.0,,,1
+technical lead,Project / Product Management,100.01,100.0,,,1
+technical operations officer,IT Operations,100.0,100.0,,,1
+technical product manager,Project / Product Management,100.01,100.0,,,1
+technology adoption manager,Project / Product Management,99.99,100.0,,,1
+technology assistant,IT Operations,100.0,100.0,,,1
+technology manager,Finance / Business,100.0,50.0,Project / Product Management,100.0,2
+technology officer,Project / Product Management,100.01,100.0,,,1
+technology sales consultant,Finance / Business,100.01,100.0,,,1
+technology specialist,IT Operations,100.0,100.0,,,1
+terraform engineer,Cloud / Infrastructure,100.0,100.0,,,1
+tfs engineer,Enterprise / Business Systems,99.99,100.0,,,1
+udeploy engineer,DevOps / SRE,100.01,100.0,,,1
+ui (user interface) designer,UI / UX,100.0,100.0,,,1
+ui designer,UI / UX,100.0,100.0,,,1
+ui developer,Web Development,99.99,50.0,Software Engineering,99.99,2
+unity developer,Game Development,100.0,50.0,Software Engineering,100.0,2
+ux designer,UI / UX,100.02,100.0,,,1
+ux/ui designer,UI / UX,100.0,100.0,,,1
+ux/ui researcher,Research,99.99,50.0,UI / UX,99.99,2
+ux/ui specialist,UI / UX,100.0,100.0,,,1
+vault engineer,Cybersecurity,100.0,100.0,,,1
+vfx artist,Animation / Multimedia,100.0,100.0,,,1
+visual effects animator,Animation / Multimedia,100.0,100.0,,,1
+web analytics developer,Software Engineering,100.0,100.0,,,1
+web content manager,Marketing / SEO,99.99,100.0,,,1
+web designer,Web Development,100.01,100.0,,,1
+web designer (ui/ux designer),UI / UX,100.0,100.0,,,1
+web developer,Web Development,100.0,50.0,Software Engineering,100.0,2
+web engineer,Web Development,100.01,100.0,,,1
+web producer,Web Development,100.0,100.0,,,1
+web project manager,Project / Product Management,100.0,100.0,,,1
+webmaster,Web Development,100.0,100.0,,,1
+wordpress developer,Software Engineering,99.99,50.0,Web Development,99.99,2
+xl deploy engineer,DevOps / SRE,100.0,100.0,,,1
+zabbix engineer,Networking,100.0,100.0,,,1
